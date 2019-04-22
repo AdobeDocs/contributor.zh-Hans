@@ -1,0 +1,20 @@
+---
+title: Git 和 GitHub 学习资源
+description: 有关 Git 和 GitHub 的学习资源
+translation-type: tm+mt
+source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
+
+---
+
+
+# Git和GitHub学习资源列表
+
+如果您不熟悉 Git 或 GitHub，请查看这些资源。
+
+- [Git 基础知识](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)：Git 基础知识的基本概述。
+- [学习 Git 和 GitHub](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
+- [交互式入门读本](https://try.github.io/)：这是一个在线的 git 教程。它会向您讲授 Git 的基础知识。
+- [GitHub 培训服务](https://services.github.com/training/)：GitHub 的教程和培训产品的列表。
+- Pro Git 电子书 [Web](https://git-scm.com/book/en/v2) 或 [PDF](https://progit2.s3.amazonaws.com/en/2016-03-22-f3531/progit-en.1084.pdf)：以 HTML 或 PDF 格式查看此完整的 Git 参考资料。
+- [GitHub 指南](https://guides.github.com/)：GitHub 文档的主页。
+- [词汇表](https://help.github.com/articles/github-glossary)：便于使用的 git 和 GitHub 术语词汇表。
