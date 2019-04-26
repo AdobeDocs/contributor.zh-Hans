@@ -1,10 +1,10 @@
 ---
-lastModified: 2018-06-28T00:00:00Z
+lastModified: '2018-06-28'
 title: 在文档中使用链接
 seo-title: 在 Adobe Git/Markdown 文档中使用链接
-description: 本文提供有关创建内容和图像链接的指导。
-seo-description: 本文提供有关为Adobe文档创建内容和图像链接的指导。
-translation-type: tm+mt
+description: 本文就如何创建指向内容和图像的链接，提供了相关指导。
+seo-description: 本文就如何创建指向 Adobe 文档内容和图像的链接，提供了相关指导。
+translation-type: ht
 source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
 
 ---
@@ -15,7 +15,7 @@ source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
 本文介绍了如何在文档页面中使用超链接。根据各种不同的约定，将链接添加到 Markdown 中并非难事。链接可将用户指向同一页面中的内容，指向其他相邻页面，或指向外部网站和 URL。
 
 > [!IMPORTANT]
-> 理想情况下，当目标支持时，所有链接都应是安全链接(`https` 与 `http`之相结合)。
+> 理想情况下，只要目标支持（绝大情况下都应该支持），所有链接都应该是安全的链接（`https` 与 `http`）。
 
 ## 链接到 URL
 
