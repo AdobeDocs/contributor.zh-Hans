@@ -3,7 +3,7 @@ title: 在本地设置 Git 存储库
 seo-title: 在本地设置适用于 Adobe 文档的 Git 存储库
 description: 本文为创建本地 Git 存储库及对 Adobe 文档做出贡献（包括创建分支存储库和克隆存储库过程）提供了指导。
 seo-description: 本文为创建本地 Git 存储库及对 Adobe 文档做出贡献（包括创建分支存储库和克隆存储库过程）提供了指导。
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
 
 ---
@@ -27,7 +27,7 @@ source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
 
 ## 确定存储库
 
-在您自己的 GitHub 帐户中创建相应的分支存储库，以便您具有在其中存储建议更改的读/写权限。[!UICONTROL Adobe Experience Cloud] 文档位于github.com的 [多个不同存储库](https://www.github.com/adobedocs)中。
+在您自己的 GitHub 帐户中创建相应的分支存储库，以便您具有在其中存储建议更改的读/写权限。[!UICONTROL Adobe Experience Cloud] 文档位于 [github.com](https://www.github.com/adobedocs) 上的多个不同的存储库中。
 
 1. 如果不确定要使用哪个存储库，请使用 Web 浏览器访问文章。选择文章右上角的 **Edit**（编辑）链接（铅笔图标）。（如果未看到“Edit”（编辑）链接，则表示该内容在 GitHub 中尚不可用。）
 
@@ -49,7 +49,7 @@ If you're new to GitHub, watch the following video for a conceptual overview of 
 
 1. 转到主存储库的 GitHub 页面，然后单击右上角的 **Fork**（创建分支）按钮。
 
-   ![GitHub 分支](assets/fork-simple.png)
+   ![GitHub 分支存储库](assets/fork-simple.png)
 
 1. 如果系统提示您，请选择 GitHub 帐户磁贴作为应创建分支的位置。此提示会在 GitHub 帐户中创建存储库的副本，称为分支。
 
@@ -70,6 +70,6 @@ If you're new to GitHub, watch the following video for a conceptual overview of 
 
 ![克隆存储库](assets/clone-pulldown.png)
 
-1. 使用 GitHub Desktop 以将本地文件与分支存储库文件保持同步。
+1. 使用 GitHub Desktop，可以将本地文件与分支存储库文件保持同步。
 
 有关详细信息，请参阅 [GitHub Desktop 文档](https://help.github.com/desktop/)。
