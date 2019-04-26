@@ -1,10 +1,10 @@
 ---
-lastModified: 2018-06-28T00:00:00Z
+lastModified: '2018-06-28'
 title: 针对主要更改的 GitHub 参与工作流
 seo-title: 针对 Adobe 文档的主要更改的 GitHub 参与工作流
 description: 本文会向您介绍如何使用“主要”参与者工作流参与 adobe 文档的编写。
 seo-description: 本文会向您介绍如何使用“主要”参与者工作流参与 adobe 文档的编写。
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
 
 ---
@@ -52,7 +52,7 @@ source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
 >[!NOTE]
 >在主分支中进行更改*不是最佳做法*。假设您使用主分支为定时功能发布引入一组更改。您已完成更改并正等待发布它们。在此期间，您收到一个紧急请求，需要修复某些内容，因此您先更改了主分支中的文件，然后再发布更改。在此示例中，您既无意中发布了修复*，又发布了*您原本计划在特定日期发布的更改。
 
-接下来，在本地存储库中创建一个新的工作分支，以获取您提议的更改。每个 git 客户端各不相同，因此请咨询首选客户端的帮助。您可以在 [GitHub 流](https://guides.github.com/introduction/flow/)的 GitHub 指南中查看该过程的概述。
+接下来，在本地存储库中创建一个新的工作分支，以获取您提议的更改。每个 git 客户端各不相同，因此请咨询首选客户端的帮助。您可以在 GitHub 指南中，查看有关 [GitHub 流](https://guides.github.com/introduction/flow/) 处理过程的概述。
 
 ## 拉取请求处理
 
