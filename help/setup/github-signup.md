@@ -6,7 +6,7 @@ description: 要为 Adobe 文档撰写内容，必须逐步完成为 GitHub 设�
 seo-description: 要为 Adobe 文档撰写内容，必须逐步完成为 GitHub 设置帐户的过程。
 index: true
 translation-type: ht
-source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
+source-git-commit: beff041de31171a7ddd8a3b829adea7cc142e046
 
 ---
 

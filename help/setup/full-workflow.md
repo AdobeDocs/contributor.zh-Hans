@@ -5,7 +5,7 @@ seo-title: 针对 Adobe 文档的主要更改的 GitHub 参与工作流
 description: 本文会向您介绍如何使用“主要”参与者工作流参与 adobe 文档的编写。
 seo-description: 本文会向您介绍如何使用“主要”参与者工作流参与 adobe 文档的编写。
 translation-type: ht
-source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
+source-git-commit: cb9e20da64bb04a2b1765338b237825cae7aabeb
 
 ---
 

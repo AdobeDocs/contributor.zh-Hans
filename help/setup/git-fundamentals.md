@@ -4,7 +4,7 @@ seo-title: Git 和 GitHub 文档要点
 description: 本文概述了 Git、GitHub 存储库、内容的组织方式以及用于 Adobe 文档的命名约定。
 seo-description: 本文概述了 Git、GitHub 存储库、内容的组织方式以及用于 Adobe 文档的命名约定。
 translation-type: ht
-source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
+source-git-commit: 223b40e1903c5de90dee90a138967efb02237a42
 
 ---
 

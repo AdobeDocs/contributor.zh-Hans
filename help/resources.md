@@ -2,7 +2,7 @@
 title: Git 和 GitHub 学习资源
 description: 有关 Git 和 GitHub 的学习资源
 translation-type: ht
-source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
+source-git-commit: d4cdd54564db622cbf1042f73b1a14fc8b3d96e0
 
 ---
 

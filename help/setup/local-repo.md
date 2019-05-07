@@ -4,7 +4,7 @@ seo-title: 在本地设置适用于 Adobe 文档的 Git 存储库
 description: 本文为创建本地 Git 存储库及对 Adobe 文档做出贡献（包括创建分支存储库和克隆存储库过程）提供了指导。
 seo-description: 本文为创建本地 Git 存储库及对 Adobe 文档做出贡献（包括创建分支存储库和克隆存储库过程）提供了指导。
 translation-type: ht
-source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
+source-git-commit: 223b40e1903c5de90dee90a138967efb02237a42
 
 ---
 
