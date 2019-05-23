@@ -3,10 +3,11 @@ title: Git 和 GitHub 文档要点
 seo-title: Git 和 GitHub 文档要点
 description: 本文概述了 Git、GitHub 存储库、内容的组织方式以及用于 Adobe 文档的命名约定。
 seo-description: 本文概述了 Git、GitHub 存储库、内容的组织方式以及用于 Adobe 文档的命名约定。
-translation-type: ht
-source-git-commit: 223b40e1903c5de90dee90a138967efb02237a42
+translation-type: tm+mt
+source-git-commit: e7382ef4aefc69c6b4e7d78b7f34eaf897596eaf
 
 ---
+
 
 # Git 和 GitHub 文档要点
 
@@ -18,7 +19,7 @@ source-git-commit: 223b40e1903c5de90dee90a138967efb02237a42
 
 Git 是一个允许协作的开源版本控制系统。多个参与者可以处理*存储库*中的文件。
 
-GitHub 是一项基于 Web 的托管服务，专门适用于 Git 存储库（例如，存储 [docs.adobe.com](https://docs.adobe.com) 内容）。对于任何项目，GitHub 都会托管主存储库，参与者可以在其中创建自己的作品副本。
+GitHub 是用于 Git 存储库的基于 Web 的托管服务，例如用于存储 [docs.adobe.com](https://docs.adobe.com) 内容的托管服务。对于任何项目，GitHub 都会托管主存储库，参与者可以在其中创建自己的作品副本。
 
 ## Git
 
@@ -32,7 +33,7 @@ Git 还使用分层结构来存储和管理项目的内容：
 参与者可与 Git 交互以更新和处理本地和 GitHub 两个级别的存储库：
 
 - 在本地通过 GitHub Desktop 等工具。
-- 通过 [www.github.com](https://www.github.com)，它与 Git 联袂协调管理回流到主存储库的稿件。
+- 通过 [www.github.com](https://www.github.com)，它集成了 Git 以管理流回主存储库中的稿件调整。
 
 ## GitHub
 
