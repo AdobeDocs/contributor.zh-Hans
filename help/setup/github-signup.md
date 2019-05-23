@@ -5,10 +5,11 @@ seo-title: 适用于 Adobe Experience Cloud 文档的 Github 帐户设置步骤
 description: 要为 Adobe 文档撰写内容，必须逐步完成为 GitHub 设置帐户的过程。
 seo-description: 要为 Adobe 文档撰写内容，必须逐步完成为 GitHub 设置帐户的过程。
 index: true
-translation-type: ht
-source-git-commit: beff041de31171a7ddd8a3b829adea7cc142e046
+translation-type: tm+mt
+source-git-commit: e7382ef4aefc69c6b4e7d78b7f34eaf897596eaf
 
 ---
+
 
 # GitHub 帐户设置
 
@@ -26,7 +27,7 @@ source-git-commit: beff041de31171a7ddd8a3b829adea7cc142e046
 
 所有参与到该项目的第三方稿件都必须附有签署的参与者许可协议。这将允许 Adobe 重新分配您在项目中的稿件。
 
-1. 如果您接受上述要求，请签署[参与者许可协议 (CLA)](http://opensource.adobe.com/cla.html)。
+1. 签署 [参与者许可协议(CLA)](http://opensource.adobe.com/cla.html) (如果可接受)。
 
 ## Adobe 员工
 
