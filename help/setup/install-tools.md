@@ -4,7 +4,7 @@ title: 安装创作工具
 seo-title: 安装用于 Adobe 文档的 Git 和 GitHub 创作工具
 description: 本文可帮助您下载和安装将用于 Git/GitHub 以及编辑 Markdown 文件所需的客户端工具。
 seo-description: 本文可帮助您下载和安装将用于 Git/GitHub 以及编辑 Adobe 文档的 Markdown 文件所需的客户端工具。
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e7382ef4aefc69c6b4e7d78b7f34eaf897596eaf
 
 ---
@@ -21,14 +21,14 @@ source-git-commit: e7382ef4aefc69c6b4e7d78b7f34eaf897596eaf
 
 ## 安装 Git 客户端工具
 
-有关帮助将本地文件与服务器文件同步的图形用户界面工具，请下载 [GitHub Desktop](https://desktop.github.com/)。其他常用选项包括[软件自由管理机构的可用 GUI 客户端页面](https://git-scm.com/downloads/guis)或 [Microsoft Visual Studio 代码](https://www.visualstudio.com/products/code-vs.aspx)。
+关于有助于将本地文件与服务器文件同步的图形用户界面工具，请下载 [GitHub Desktop](https://desktop.github.com/)。其他常用选项包括 [Software Freedom Conservancy 推出的 GUI 客户端页面](https://git-scm.com/downloads/guis)或 [Microsoft Visual Studio Code](https://www.visualstudio.com/products/code-vs.aspx)。
 
-如果与图形用户界面 (GUI) 相比，您偏向使用命令行界面 (CLI)，则请安装最新版本的[软件自由管理机构的 GUI 客户端工具](https://git-scm.com/downloads)。该安装内容包括 Git 版本控制系统和 Git Bash。Git Bash 是一个可用于与本地 Git 存储库交互的命令行应用程序。
+如果相对于图形用户界面 (GUI)，您更倾向于使用命令行接口 (CLI)，请安装 [Software Freedom Conservancy 推出的 GUI 客户端工具](https://git-scm.com/downloads)的最新版本。该安装内容包括 Git 版本控制系统和 Git Bash。Git Bash 是一个可用于与本地 Git 存储库交互的命令行应用程序。
 
 可在以下位置获取 Git 学习资源：
 
 * [Git 基础知识](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
-* [学习 Git 和 GitHub](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
+* [了解 Git 和 GitHub](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
 * [Git 术语](https://help.github.com/articles/github-glossary)
 
 ## 了解 Markdown 编辑器
