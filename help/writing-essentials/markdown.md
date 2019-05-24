@@ -4,7 +4,7 @@ title: 如何使用 Markdown 编写文档
 seo-title: 如何使用 Markdown 编写 Adobe 文档
 description: 本文介绍了用于编写文章的 Markdown 语言的基础知识和参考信息。
 seo-description: 本文介绍了用于为 Adobe 文档编写文章的 Markdown 语言的基础知识和参考信息。
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e7382ef4aefc69c6b4e7d78b7f34eaf897596eaf
 
 ---
@@ -12,9 +12,9 @@ source-git-commit: e7382ef4aefc69c6b4e7d78b7f34eaf897596eaf
 
 # 如何使用 Markdown 编写技术文档
 
-Adobe 技术文档文章以名为 [Markdown](https://daringfireball.net/projects/markdown/) 的轻量级标记语言编写，这种方式易于阅读且易于学习。
+Adobe 技术文档文章是采用一种名为 [Markdown](https://daringfireball.net/projects/markdown/) 的轻量级标记语言编写的，这种方式易于阅读和学习。
 
-当我们在 GitHub 中存储 Adobe Docs 内容时，该内容可以使用名为 [GitHub Flavored Markdown (GFM)](https://help.github.com/categories/writing-on-github/) 的 Markdown 版本，该版本提供了额外的功能，可满足常见的格式需求。此外，Adobe 还通过几种方式扩展了 Markdown，以支持某些与帮助相关的功能，如备注、提示和嵌入式视频。
+当我们在 GitHub 中存储 Adobe Docs 内容时，该内容可使用名为 [GitHub Flavored Markdown (GFM)](https://help.github.com/categories/writing-on-github/) 的 Markdown 版本，这个版本提供了一些附加的功能，可满足常见的格式需求。此外，Adobe 还通过几种方式扩展了 Markdown，以支持某些与帮助相关的功能，如备注、提示和嵌入式视频。
 
 ## Markdown 基础知识
 
@@ -150,7 +150,7 @@ Markdown 中可轻松处理简单的表格。但是，如果表格单元格中�
 
 - GitHub 的[使用表格整理信息](https://help.github.com/articles/organizing-information-with-tables/)
 - [Markdown 表格生成器](https://www.tablesgenerator.com/markdown_tables) Web 应用程序
-- [将 HTML 表转换为 Markdown](https://jmalarcon.github.io/markdowntables/)
+- [将 HTML 表格转换为 Markdown 表格](https://jmalarcon.github.io/markdowntables/)
 
 ### 链接
 
@@ -164,7 +164,7 @@ Markdown 中可轻松处理简单的表格。但是，如果表格单元格中�
 
 将显示为：
 
-[Adobe 或 ](https://www.adobe.com)<https://www.adobe.com>
+[Adobe](https://www.adobe.com/cn) 或 <https://www.adobe.com>
 
 对于指向存储库中文章（交叉引用）的链接，请使用相对链接。您可以使用所有相对链接操作数，例如 ./（当前目录）、../（上一级目录），以及 ../../（上二级目录）。
 
