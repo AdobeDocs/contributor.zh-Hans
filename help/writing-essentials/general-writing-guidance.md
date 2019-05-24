@@ -4,7 +4,7 @@ title: 适用于 Adobe 文档的编写指导
 seo-title: 适用于 Adobe 文档的编写指导
 description: 本文包含对 Adobe 文档做出贡献的基本指导。
 seo-description: 本文包含对 Adobe 文档做出贡献的基本指导。
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e7382ef4aefc69c6b4e7d78b7f34eaf897596eaf
 
 ---
