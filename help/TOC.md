@@ -12,8 +12,8 @@ getting-started-url: https://landing.adobe.com/experience-league/
 tutorials-title: 教程
 tutorials-url: https://helpx.adobe.com/cn/experience-cloud/tutorials.html
 test-meta: 测试
-translation-type: ht
-source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
+translation-type: tm+mt
+source-git-commit: cc70a5ea1be2a7e7c8d3a685c500b6bf33824cea
 
 ---
 
@@ -31,6 +31,8 @@ source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
    + [使用 Markdown](writing-essentials/markdown.md)
    + [常规编写指南](writing-essentials/general-writing-guidance.md)
    + [链接](writing-essentials/linking.md)
++ 翻译反馈 {#localization}
+   + [Adobe Experience cloud产品文档的语言支持](localization/machine-translation.md)
 + [Git 和 GitHub 学习资源](resources.md)
 + 行为和投稿{#conduct-contributions}
    + [行为准则](conduct/code-of-conduct.md)
