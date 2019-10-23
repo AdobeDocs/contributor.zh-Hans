@@ -3,8 +3,8 @@ title: Adobe 文档参与者指南
 seo-title: Adobe Experience Cloud 技术文档的参与者指南概览
 description: 该指南介绍了如何向 Adobe 文档站点提供建议和添加内容。
 seo-description: 该指南介绍了如何向 [!UICONTROL Adobe Experience Cloud] 技术文档投稿。
-translation-type: ht
-source-git-commit: cda3618353a35ebb7dd73a64777ca1c788f5b72b
+translation-type: tm+mt
+source-git-commit: 3a769e92e724694b17c5412303d533c7402f5cd0
 
 ---
 
@@ -32,13 +32,13 @@ source-git-commit: cda3618353a35ebb7dd73a64777ca1c788f5b72b
 > All repositories that publish to docs.adobe.com have adopted the [Adobe Open Source Code of Conduct](../code-of-conduct.md) or the [.NET Foundation Code of Conduct](https://dotnetfoundation.org/code-of-conduct). For more information, see the [Contributing](../contributing.md) article.
 >
 > Minor corrections or clarifications to documentation and code examples in public repositories are covered by the [Adobe Documentation Terms of Use](https://www.adobe.com/legal/terms.html). New or significant changes generate a comment in the pull request, asking you to submit an online Contribution License Agreement (CLA) if you are not an employee of Adobe. We need you to complete the online form before we can review or accept your pull request.
---->
+-->
 
 ## 对现有文档进行快速编辑
 
 快速编辑非常适合修复文档中的小错误和遗漏。如果文章显示如下所示的编辑按钮，您可以自己进行快速修复。编辑文档时，您可以提交拉取请求 (PR) 以向我们提交修复/建议，之后，我们可以检查、批准和发布建议。
 
-1. 如果您接受上述要求，请签署[参与者许可协议 (CLA)](http://opensource.adobe.com/cla.html)。
+1. Sign the [Contributor License Agreement (CLA)](http://opensource.adobe.com/cla.html) if acceptible.
 
    您只需提交一次 Adobe CLA 即可。
 1. 单击右列的 **`Edit this page`**，可转到 GitHub 上的 Markdown 源文件。
