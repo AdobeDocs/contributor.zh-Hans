@@ -1,69 +1,66 @@
 ---
-title: Adobe Experience cloud产品文档的语言支持
-seo-title: Adobe Experience cloud产品文档的语言支持
+title: Adobe Experience Cloud 产品文档的语言支持
+seo-title: Adobe Experience Cloud 产品文档的语言支持
 description: 该指南介绍了如何向 Adobe 文档站点提供建议和添加内容。
 seo-description: 该指南介绍了如何向 [!UICONTROL Adobe Experience Cloud] 技术文档投稿。
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 6c4ff238f6fa4287b9032a123959db3666cb463c
 
 ---
 
 
-# Adobe Experience cloud产品文档的语言支持
+# Adobe Experience Cloud 产品文档的语言支持
 
-Adobe认识到您依赖产品文档、帮助和支持内容，以便以Adobe产品支持的语言随时可用。 为了实现这一目标，Adobe提供了独特的翻译体验，使您能够选择自己选择的语言并提供关于翻译内容质量的反馈。
+Adobe 认识到，您依赖于随时准备以 Adobe 产品支持的语言提供的产品文档、帮助和支持内容。为了满足您的这一需求，Adobe 提供了独特的翻译体验，让您能够选择所需的语言，并对翻译内容的质量提供反馈。
 
 ## 选择语言
 
-您可以查看大多数语言的Adobe Experience cloud产品文档。
+您可以查看大多数语言版本的 Adobe Experience Cloud 产品文档。
 
-1. 导航到Experience cloud产 [品文档](https://helpx.adobe.com/support/experience-cloud.html)。
+1. 导航到 Experience Cloud [产品文档](https://helpx.adobe.com/cn/support/experience-cloud.html)。
 
-1. 浏览以查找帮助页面(例如 [Analytics](https://docs.adobe.com/content/help/en/analytics/landing/home.html))。
+1. 浏览以找到帮助页面（例如，[Analytics](https://docs.adobe.com/content/help/zh-Hans/analytics/landing/home.html)）。
 
-1. Click the Language Selector (world icon), then choose a language.
+1. 单击“语言选择器”（世界图标），然后选择一种语言。
 
    ![语言选择器](assets/language-dropdown.png)
 
-   页面将以您选择的语言显示。
+   页面将使用您选择的语言显示。
 
-   ![Translated page](assets/french.png)
+   ![翻译完成的页面](assets/french.png)
 
-   如果您的语言版本尚不可用，Adobe可以自动翻译您的内容。 Adobe的自动翻译服务在页面顶部的蓝色字段中显示一条消息：
+   如果尚未提供您的语言版本，Adobe 可以自动翻译您的内容。Adobe 的自动翻译服务会在页面顶部的蓝色字段中显示一条消息：
 
    ![翻译消息](assets/machine-translation-message.png)
 
-   内容可能会自动以您的语言呈现，您也可以单击链接以触发翻译。 (当您单击超链接以从翻译的页面返回到英语源时，可能出现此情况。 它允许您选择按需查看译文页面。)您可以随时返回英文源。
+   可以自动使用您的语言显示内容，或者，您也可以单击链接以触发翻译。（当您单击超链接从翻译页面返回到源英文页面时，可能会发生这种情况。这样您就可以根据需要选择查看翻译页面。）您随时可以返回源英文页面。
 
-   有时，英文源内容可能在翻译完成之前最近已更新并发布。 单击下拉菜单中的语言后，您将看到通知— 在页面顶部的浅蓝色水平栏中。 通知页面已自动从先前版本翻译，更新的内容即将发布。 如果您愿意，您可以选择在新浏览器窗口中查看最新的英文源内容。
+   有时候，在翻译完成之前，源英文内容可能进行了最新更新和发布。单击下拉菜单中的语言后，您会在页面顶部的浅蓝色水平栏中看到一则通知，告诉您页面是自动从前一版本翻译过来的，更新内容将于不久之后提供。如果您愿意，可以选择在新的浏览器窗口中查看最新的源英文内容。
 
-## 为何使用自动翻译
+## 为什么使用自动翻译
 
-Adobe利用自动翻译功能以各种语言发布产品支持内容，尽可能缩短内容创建时间。 由于支持内容对产品使用至关重要，因此我们优先考虑由技能娴熟的专业人士翻译内容，但在速度和紧迫性最为重要的情况下，我们可能也会选择自动翻译。
+Adobe 利用自动翻译功能，尽可能在与内容创建时间最接近的时间发布各种语言版本的产品支持内容。由于支持内容对于产品使用至关重要，因此，我们优先考虑由技能娴熟的专业人士翻译内容，但在紧急情况下需要快速提供翻译内容时，我们可能也会选择自动翻译。
 
-自动翻译在互联网上无处不在，其应用被公认为一种强大的信息收集工具。 它被广泛用于知识库内容，在这些内容中，人类干预可能很少，也可能没有。 尽管近年来在技术上取得了重大突破，但自动生成的翻译可能偶尔会包含语言和意义上的错误和错误。
+自动翻译在互联网上已经十分普遍，被公认为是一种强大的信息收集工具。自动翻译已广泛应用于知识库内容，在这一领域中，几乎不存在人为干涉。尽管近些年来在技术方面有了重大突破，但是自动生成的翻译内容在语言与意义方面仍偶尔存在不准确和错误现象。
 
 ### 通过浏览器自动翻译
 
-If you have set your browser preferences to automatically translate any page into your language, be aware that the resulting translations will differ from those obtained through the Adobe page. That is because the service offered by the browser may be stock translations, while the Adobe translations will have been customized to adhere to Adobe style guidelines and terminology. To obtain optimal automatic translation results, we recommend that you either disable the browser option for this specific site in your browser preferences, or click Never translate when it displays.****
+如果您已将浏览器首选项设置为将任何页面自动翻译成您的语言，请注意，生成的翻译将与通过 Adobe 页面获得的翻译有所不同。这是因为浏览器提供的服务可能会存储翻译，而 Adobe 翻译将经过自定义以符合 Adobe 风格指南和术语。要获得最佳的自动翻译结果，我们建议您在浏览器首选项中禁用此特定站点的浏览器选项，或在显示时单击&#x200B;**从不翻译**。
 
 ### 已知问题
 
-You might occasionally experience issues with the automatic translation output, such as incomplete translations, corrupted characters or page layout issues. These are caused by any of the various authoring, publishing, or translation technology tools Adobe uses. We will make every effort to list the known issues here
-below.
+您可能偶尔会遇到自动翻译输出问题，例如，翻译不完整、字符损坏或页面布局问题。这是由 Adobe 使用的各种创作、发布或翻译技术工具造成的。我们将尽一切努力来在下面列出这些已知问题。
 
-| **ISSUE ID** | **说明** | **状态** |
+| **问题 ID** | **说明** | **状态** |
 |--------------|-------------------------------------------------------------------------------------|------------|
-| G11N3558 | Some Audience Manager pages are half English and half translated (French, Spanish). | 打开 |
+| G11N3558 | 某些 Audience Manager 页面一半为英文，一半为译文（法语、西班牙语）。 | 未解决 |
 
 ### 反馈
 
-Whenever content is automatically translated, either by default or user action, there is the option to provide feedback to Adobe about the translations. In the
-light-blue horizontal bar at the top of the page, you may answer “Yes” or “No” to the question, “Was this translation useful?”. Adobe会收集此有价值的指标并分析编译后的数据，以便就内容翻译做出决策。 We value your feedback and encourage you to respond.
+无论内容是在默认情况下，还是在用户操作下被自动翻译，都可以选择向 Adobe 提供有关翻译的反馈。在页面顶部的浅蓝色水平栏中，您可以对“此翻译是否有用？”问题回答“是”或“否”。Adobe 会收集这一有价值的量度，并对编译后的数据进行分析，以便做出内容翻译方面的决策。我们重视您的反馈并鼓励您积极提供反馈。
 
 ![反馈](assets/machine-translation-feedback.png)
 
-In the future, we plan to allow you to provide more extensive feedback, in the form of logging an issue, making suggested improvements, and even requesting
-additional languages. 其中一些功能已在英文页面上提供。 从长远来看，我们相信这将帮助Adobe改善这些页面上的使用体验。
+将来，我们计划允许您以记录问题、提出改进建议，甚至请求其他语言的形式提供更广泛的反馈。其中一些功能已在英文页面上提供。从长远来看，我们相信这将帮助 Adobe 改善这些页面的用户体验。
 
-![Improve this page](assets/feedback.png)
+![改进此页面](assets/feedback.png)
