@@ -4,7 +4,7 @@ seo-title: Adobe Experience Cloud 产品文档的语言支持
 description: 该指南介绍了如何向 Adobe 文档站点提供建议和添加内容。
 seo-description: 该指南介绍了如何向 [!UICONTROL Adobe Experience Cloud] 技术文档投稿。
 translation-type: tm+mt
-source-git-commit: 6c4ff238f6fa4287b9032a123959db3666cb463c
+source-git-commit: 9db7dd1fb9b22bc35f887d0441a1837813efc9cc
 
 ---
 
@@ -64,3 +64,9 @@ Adobe 利用自动翻译功能，尽可能在与内容创建时间最接近的�
 将来，我们计划允许您以记录问题、提出改进建议，甚至请求其他语言的形式提供更广泛的反馈。其中一些功能已在英文页面上提供。从长远来看，我们相信这将帮助 Adobe 改善这些页面的用户体验。
 
 ![改进此页面](assets/feedback.png)
+
+### 翻译免责声明
+
+Adobe使用机器翻译程序将文本翻译为多种不同的语言。 请注意，计算机化的翻译是文字翻译，可能包含错误。 Adobe不保证提供的翻译的准确性、可靠性或及时性。 Adobe不对因依赖已翻译信息的准确性或可靠性而造成的任何损失或损害负责。 如果英语与其他语言之间有差异，则英语版本控制。
+
+如果您要报告翻译错误或错误，我们建议您联系我们。
