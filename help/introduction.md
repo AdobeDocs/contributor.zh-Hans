@@ -3,8 +3,8 @@ title: Adobe 文档参与者指南
 seo-title: Adobe Experience Cloud 技术文档的参与者指南概览
 description: 该指南介绍了如何向 Adobe 文档站点提供建议和添加内容。
 seo-description: 该指南介绍了如何向 [!UICONTROL Adobe Experience Cloud] 技术文档投稿。
-translation-type: ht
-source-git-commit: 3a769e92e724694b17c5412303d533c7402f5cd0
+translation-type: tm+mt
+source-git-commit: afcd9363375adbc21a0e9a027d3f5ce59e08cd70
 
 ---
 
@@ -38,10 +38,10 @@ source-git-commit: 3a769e92e724694b17c5412303d533c7402f5cd0
 
 快速编辑非常适合修复文档中的小错误和遗漏。如果文章显示如下所示的编辑按钮，您可以自己进行快速修复。编辑文档时，您可以提交拉取请求 (PR) 以向我们提交修复/建议，之后，我们可以检查、批准和发布建议。
 
-1. 如果您接受上述要求，请签署[参与者许可协议 (CLA)](http://opensource.adobe.com/cla.html)。
+1. Sign the [Contributor License Agreement (CLA)](http://opensource.adobe.com/cla.html) if acceptable.
 
    您只需提交一次 Adobe CLA 即可。
-1. 单击右列的 **`Edit this page`**，可转到 GitHub 上的 Markdown 源文件。
+1. 单击右列的 **`Edit this page`**（编辑此页）以转到 GitHub 上的 Markdown 源文件。
 1. 单击铅笔图标可编辑相关文章。
 
    > [!NOTE]
@@ -54,7 +54,7 @@ source-git-commit: 3a769e92e724694b17c5412303d533c7402f5cd0
 
    ![提出更改建议](assets/submit-pull-request.png)
 
-   >[!NOTE]如果您收到有关签署“参与者许可协议”(CLA) 的验证错误消息，请单击 **Details**（详细信息），以打开相关的许可协议。签署协议（如果接受）。接下来，关闭并打开拉取请求，然后继续操作。
+   >[!NOTE]如果您收到有关签署“参与者许可协议”(CLA) 的验证错误消息，请单击 **Details**（详细信息），以打开相关的许可协议。签署协议（如果可接受）。 接下来，关闭并打开拉取请求，然后继续操作。
 
 以上就是所有步骤。谢谢！文档团队成员将审核并合并您的拉取请求。
 
