@@ -1,20 +1,20 @@
 ---
-lastModified: '2018-06-28'
+lastModified: 2018-06-28T00:00:00Z
 title: 如何使用 Markdown 编写文档
 seo-title: 如何使用 Markdown 编写 Adobe 文档
 description: 本文介绍了用于编写文章的 Markdown 语言的基础知识和参考信息。
 seo-description: 本文介绍了用于为 Adobe 文档编写文章的 Markdown 语言的基础知识和参考信息。
-translation-type: ht
-source-git-commit: e7382ef4aefc69c6b4e7d78b7f34eaf897596eaf
+translation-type: tm+mt
+source-git-commit: 883f9d7a9a232fdb69db09d5e9409575c7f3bdd0
 
 ---
 
 
 # 如何使用 Markdown 编写技术文档
 
-Adobe 技术文档文章是采用一种名为 [Markdown](https://daringfireball.net/projects/markdown/) 的轻量级标记语言编写的，这种方式易于阅读和学习。
+Adobe 技术文档文章以名为 [Markdown](https://daringfireball.net/projects/markdown/) 的轻量级标记语言编写，这种方式易于阅读且易于学习。
 
-当我们在 GitHub 中存储 Adobe Docs 内容时，该内容可使用名为 [GitHub Flavored Markdown (GFM)](https://help.github.com/categories/writing-on-github/) 的 Markdown 版本，这个版本提供了一些附加的功能，可满足常见的格式需求。此外，Adobe 还通过几种方式扩展了 Markdown，以支持某些与帮助相关的功能，如备注、提示和嵌入式视频。
+当我们在 GitHub 中存储 Adobe Docs 内容时，该内容可以使用名为 [GitHub Flavored Markdown (GFM)](https://help.github.com/categories/writing-on-github/) 的 Markdown 版本，该版本提供了额外的功能，可满足常见的格式需求。此外，Adobe 还通过几种方式扩展了 Markdown，以支持某些与帮助相关的功能，如备注、提示和嵌入式视频。
 
 ## Markdown 基础知识
 
@@ -34,7 +34,7 @@ Adobe 技术文档文章是采用一种名为 [Markdown](https://daringfireball.
 
 Markdown 中的段落不需要特殊语法。
 
-要将文本格式设置为**粗体**，请用两个星号将文本括起来。要将文本格式设置为*斜体*，请用一个星号将文本括起来：
+要将文本格式设置为&#x200B;**粗体**，请用两个星号将文本括起来。要将文本格式设置为&#x200B;*斜体*，请用一个星号将文本括起来：
 
 ```markdown
     This text is **bold**.
@@ -58,7 +58,7 @@ This is not \*italicized\* type.
 
 ### 编号列表和项目符号列表
 
-要创建编号列表，请在行首使用 1. 或者 1，但不要在同一列表中同时使用这两种格式，否则将会创建一个新列表。您无需指定编号。GitHub 会为您完成此操作。
+To create numbered lists, begin a line with `1.` or `1)`, but don&#39;t use both formats within the same list. 您无需指定编号。GitHub 会为您完成此操作。
 
 ```markdown
 1. This is step 1.
@@ -73,20 +73,20 @@ This is not \*italicized\* type.
 1. This is yet another step, the third.
 
 <!-- markdownlint-disable MD037 -->
-要创建项目符号列表，请在行首使用 \* 或者 - 或 +，但不要在同一列表中混合使用这几种格式。（如果混合使用多个格式，如 \* 和 \+，则实际上会创建一个新列表。）
+要创建项目符号列表，请在行首使用 \* 或者 - 或 +，但不要在同一列表中混合使用这几种格式。（请勿在同一文档中混合项目符号格式，如\*和\+。）
 <!-- markdownlint-disable MD037 -->
 
 ```markdown
-- First item in an unordered list.
-- Another item.
-- Here we go again.
+* First item in an unordered list.
+* Another item.
+* Here we go again.
 ```
 
 将显示为：
 
-- First item in an unordered list.
-- Another item.
-- Here we go again.
+* First item in an unordered list.
+* Another item.
+* Here we go again.
 
 您还可以在列表中嵌入列表并在列表项之间添加内容。
 
@@ -97,9 +97,9 @@ This is not \*italicized\* type.
    ![screen](assets/no-localize/adobe_standard_logo.png)
 1. Make sure that your table looks like this: 
 
-    | Hello | World |
-    |---|---|
-    | How | are you? |  
+   | Hello | World |
+   |---|---|
+   | How | are you? |  
 1. This is the fourth step.
 
    >[!NOTE]
@@ -132,25 +132,25 @@ This is not \*italicized\* type.
 
 ```markdown
 | Header | Another header | Yet another header |
-|------------|:---------------:|-----------------------:|
-| row 1 | centered column 2 | right-aligned column 3 |
+|--- |--- |--- |
+| row 1 | column 2 | column 3 |
 | row 2 | row 2 column 2 | row 2 column 3 |
 ```
 
 将显示为：
 
 | Header | Another header | Yet another header |
-|------------|:---------------:|-----------------------:|
-| row 1 | centered column 2 | right-aligned column 3 |
+|--- |--- |--- |
+| row 1 | 列2 | 列3 |
 | row 2 | row 2 column 2 | row 2 column 3 |
 
 Markdown 中可轻松处理简单的表格。但是，如果表格单元格中包含多个段落或列表，就会很难处理。对于此类内容，我们建议使用不同的格式，例如标题和文本。
 
 有关创建表格的详细信息，请参阅：
 
-- GitHub 的[使用表格整理信息](https://help.github.com/articles/organizing-information-with-tables/)
-- [Markdown 表格生成器](https://www.tablesgenerator.com/markdown_tables) Web 应用程序
-- [将 HTML 表格转换为 Markdown 表格](https://jmalarcon.github.io/markdowntables/)
+* GitHub 的[使用表格整理信息](https://help.github.com/articles/organizing-information-with-tables/)
+* [Markdown 表格生成器](https://www.tablesgenerator.com/markdown_tables) Web 应用程序
+* [将 HTML 表转换为 Markdown](https://jmalarcon.github.io/markdowntables/)
 
 ### 链接
 
@@ -159,12 +159,12 @@ Markdown 中可轻松处理简单的表格。但是，如果表格单元格中�
 `[link text](file-name.md)`
 
 ```markdown
-[Adobe](https://www.adobe.com) or <https://www.adobe.com>
+[Adobe](https://www.adobe.com)
 ```
 
 将显示为：
 
-[Adobe](https://www.adobe.com/cn) 或 <https://www.adobe.com>
+[Adobe](https://www.adobe.com)
 
 对于指向存储库中文章（交叉引用）的链接，请使用相对链接。您可以使用所有相对链接操作数，例如 ./（当前目录）、../（上一级目录），以及 ../../（上二级目录）。
 
@@ -254,12 +254,12 @@ Cat
 
 Adobe 文章对大多数文章格式使用标准 Markdown，例如段落、链接、列表和标题。对于更丰富的格式，文章可以使用扩展的 Markdown 功能，例如：
 
-- 备注块
-- 嵌入式视频
-- 不进行本地化
-- 组件属性，例如为标题指定不同的标题 ID
+* 备注块
+* 嵌入式视频
+* 不进行本地化
+* 组件属性，例如为标题指定不同的标题 ID
 
-在每行开头使用 Markdown 块引用 ( &gt; ) 可将扩展组件（例如备注）绑定在一起。如果需要在组件中使用子组件，请为该子组件部分添加额外级别的块引用 (&gt;  &gt;)。例如，DONOTLOCALIZE 部分中的“备注”应以 &gt;    &gt; 开头。
+在每行开头使用 Markdown 块引用 ( > ) 可将扩展组件（例如备注）绑定在一起。如果需要在组件中使用子组件，请为该子组件部分添加额外级别的块引用 (>  >)。例如，DONOTLOCALIZE 部分中的“备注”应以 >    > 开头。
 
 一些常见的 Markdown 元素（如标题和代码块）包含扩展属性。如果需要更改默认属性，请将参数添加到组件后面的大括号 /{ /} 中。上下文中介绍了扩展属性。
 
@@ -267,10 +267,10 @@ Adobe 文章对大多数文章格式使用标准 Markdown，例如段落、链�
 
 您可以从四种类型的备注块中进行选择，以引起用户对特定内容的注意：
 
-- `[!NOTE]`
-- `[!CAUTION]`
-- `[!TIP]`
-- `[!IMPORTANT]`
+* `[!NOTE]`
+* `[!CAUTION]`
+* `[!TIP]`
+* `[!IMPORTANT]`
 
 通常，应谨慎使用备注块，因为它们可能具有破坏性。尽管它们也支持代码块、图像、列表和链接，但请尽量保持备注块简单、直观。
 
@@ -311,19 +311,18 @@ Adobe 文章对大多数文章格式使用标准 Markdown，例如段落、链�
 
 AEM 中的“更多与此类似的内容”组件显示在文章的末尾。此部分会显示相关链接。呈现文章时，可以将其格式化为与 2 级标题 (##) 相同的格式而不添加到 mini-TOC。
 
-<!--
 ```markdown
->[!MORE]
+>[!MORELIKETHIS]
 >* [Article 1](https://helpx.adobe.com/support/analytics.html)
->* [Article 2](https://helpx.adobe.com/support/audience-manager.html){target="new-window"}
+>* [Article 2](https://helpx.adobe.com/support/audience-manager.html)
 ```
 
-Displayed:
+将显示为：
 
->[!MORE]
->* [Article 1](https://helpx.adobe.com/support/analytics.html)
->* [Article 2](https://helpx.adobe.com/support/audience-manager.html){target="new-window"}
--->
+>[!MORELIKETHIS]
+>* [第1条](https://helpx.adobe.com/support/analytics.html)
+>* [第2条](https://helpx.adobe.com/support/audience-manager.html)
+
 
 ### DNL（不进行本地化）和 UICONTROL
 
@@ -332,7 +331,7 @@ Displayed:
 
 对于不应进行本地化的单词或短语，请使用 `[!DNL]` 扩展来将单词或部分括起来。
 
-对于解决方案的用户界面和菜单中的元素，我们使用 `[!UICONTROL]` 扩展。
+对于解决方案的用户界面和菜单中的元素，我们使用 `` 扩展。
 
 **示例：**
 
@@ -361,13 +360,13 @@ Use the [!UICONTROL Visual Experience Composer] in [!DNL Target] to create your 
 包含下划线的替换文字将无法正确呈现。例如，不要使用：
 
 ```markdown
-![Settings_Step_2] (/assets/settings_step_2.png)
+![Settings_Step_2](/assets/settings_step_2.png)
 ```
 
 最佳做法是在文件名中使用连字符 (-)，而不是下划线 (_)。
 
 ```markdown
-![Settings-Step-2] (/assets/settings-step-2.png)
+![Settings-Step-2](/assets/settings-step-2.png)
 ```
 
 ### 撇号和引号
@@ -376,10 +375,10 @@ Use the [!UICONTROL Visual Experience Composer] in [!DNL Target] to create your 
 
 以下是这些标点符号的“智能”版本的编码：
 
-- 左（开）引号： `&#8220;`
-- 右（闭）引号：`&#8221;`
-- 右（闭）单引号或撇号：`&#8217;`
-- 左（开）单引号（很少使用）：`&#8216;`
+* 左（开）引号： `&#8220;`
+* 右（闭）引号：`&#8221;`
+* 右（闭）单引号或撇号：`&#8217;`
+* 左（开）单引号（很少使用）：`&#8216;`
 
 ### 尖括号
 
@@ -395,5 +394,5 @@ Use the [!UICONTROL Visual Experience Composer] in [!DNL Target] to create your 
 
 ### Markdown 资源
 
-- [Markdown 简介](https://daringfireball.net/projects/markdown/syntax)
-- [GitHub 的 Markdown 基础知识](https://help.github.com/articles/markdown-basics/)
+* [Markdown 简介](https://daringfireball.net/projects/markdown/syntax)
+* [GitHub 的 Markdown 基础知识](https://help.github.com/articles/markdown-basics/)
