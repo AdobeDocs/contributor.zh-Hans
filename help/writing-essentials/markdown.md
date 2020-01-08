@@ -4,7 +4,7 @@ title: 如何使用 Markdown 编写文档
 seo-title: 如何使用 Markdown 编写 Adobe 文档
 description: 本文介绍了用于编写文章的 Markdown 语言的基础知识和参考信息。
 seo-description: 本文介绍了用于为 Adobe 文档编写文章的 Markdown 语言的基础知识和参考信息。
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 883f9d7a9a232fdb69db09d5e9409575c7f3bdd0
 
 ---
@@ -58,7 +58,7 @@ This is not \*italicized\* type.
 
 ### 编号列表和项目符号列表
 
-To create numbered lists, begin a line with `1.` or `1)`, but don&#39;t use both formats within the same list. 您无需指定编号。GitHub 会为您完成此操作。
+要创建编号列表，请在行首使用 `1.` 或 `1)`，但不要在同一列表中同时使用这两种格式。您无需指定编号。GitHub 会为您完成此操作。
 
 ```markdown
 1. This is step 1.
@@ -73,7 +73,7 @@ To create numbered lists, begin a line with `1.` or `1)`, but don&#39;t use both
 1. This is yet another step, the third.
 
 <!-- markdownlint-disable MD037 -->
-要创建项目符号列表，请在行首使用 \* 或者 - 或 +，但不要在同一列表中混合使用这几种格式。（请勿在同一文档中混合项目符号格式，如\*和\+。）
+要创建项目符号列表，请在行首使用 \* 或者 - 或 +，但不要在同一列表中混合使用这几种格式。（请勿在同一文档中混合使用项目符号格式，例如 \* 和 \+。）
 <!-- markdownlint-disable MD037 -->
 
 ```markdown
@@ -141,7 +141,7 @@ To create numbered lists, begin a line with `1.` or `1)`, but don&#39;t use both
 
 | Header | Another header | Yet another header |
 |--- |--- |--- |
-| row 1 | 列2 | 列3 |
+| row 1 | column 2 | column 3 |
 | row 2 | row 2 column 2 | row 2 column 3 |
 
 Markdown 中可轻松处理简单的表格。但是，如果表格单元格中包含多个段落或列表，就会很难处理。对于此类内容，我们建议使用不同的格式，例如标题和文本。
@@ -149,7 +149,7 @@ Markdown 中可轻松处理简单的表格。但是，如果表格单元格中�
 有关创建表格的详细信息，请参阅：
 
 * GitHub 的[使用表格整理信息](https://help.github.com/articles/organizing-information-with-tables/)
-* [Markdown 表格生成器](https://www.tablesgenerator.com/markdown_tables) Web 应用程序
+* [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables) Web 应用程序
 * [将 HTML 表转换为 Markdown](https://jmalarcon.github.io/markdowntables/)
 
 ### 链接
@@ -164,7 +164,7 @@ Markdown 中可轻松处理简单的表格。但是，如果表格单元格中�
 
 将显示为：
 
-[Adobe](https://www.adobe.com)
+[Adobe](https://www.adobe.com/cn)
 
 对于指向存储库中文章（交叉引用）的链接，请使用相对链接。您可以使用所有相对链接操作数，例如 ./（当前目录）、../（上一级目录），以及 ../../（上二级目录）。
 
@@ -320,8 +320,8 @@ AEM 中的“更多与此类似的内容”组件显示在文章的末尾。此�
 将显示为：
 
 >[!MORELIKETHIS]
->* [第1条](https://helpx.adobe.com/support/analytics.html)
->* [第2条](https://helpx.adobe.com/support/audience-manager.html)
+>* [Article 1](https://helpx.adobe.com/cn/support/analytics.html)
+>* [Article 2](https://helpx.adobe.com/cn/support/audience-manager.html)
 
 
 ### DNL（不进行本地化）和 UICONTROL
