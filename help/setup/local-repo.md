@@ -3,8 +3,11 @@ title: 在本地设置 Git 存储库
 seo-title: 在本地设置适用于 Adobe 文档的 Git 存储库
 description: 本文为创建本地 Git 存储库及对 Adobe 文档做出贡献（包括创建分支存储库和克隆存储库过程）提供了指导。
 seo-description: 本文为创建本地 Git 存储库及对 Adobe 文档做出贡献（包括创建分支存储库和克隆存储库过程）提供了指导。
-translation-type: ht
-source-git-commit: e7382ef4aefc69c6b4e7d78b7f34eaf897596eaf
+translation-type: tm+mt
+source-git-commit: 46674c112935a2a98a12210db92129a1bc475c46
+workflow-type: tm+mt
+source-wordcount: '682'
+ht-degree: 97%
 
 ---
 
@@ -14,7 +17,7 @@ source-git-commit: e7382ef4aefc69c6b4e7d78b7f34eaf897596eaf
 本文介绍了在本地计算机上设置 git 存储库的步骤，旨在对 Adobe 文档做出贡献。参与者可以使用本地克隆的存储库来添加新文章、对现有文章进行主要编辑或更改作品。
 
 > [!IMPORTANT]
-> 如果您只对文章进行次要更改，则*不需要*完成本文中的步骤。只需单击“编辑”图标并在浏览器中进行文本编辑即可。
+> 如果您只对文章进行次要更改，则&#x200B;*不需要*&#x200B;完成本文中的步骤。只需单击“编辑”图标并在浏览器中进行文本编辑即可。
 
 ## 概述
 
@@ -28,7 +31,7 @@ source-git-commit: e7382ef4aefc69c6b4e7d78b7f34eaf897596eaf
 
 ## 确定存储库
 
-在您自己的 GitHub 帐户中创建相应的分支存储库，以便您具有在其中存储建议更改的读/写权限。[!UICONTROL Adobe Experience Cloud] 文档位于 [github.com](https://www.github.com/adobedocs) 上的多个不同的存储库中。
+在您自己的 GitHub 帐户中创建相应的分支存储库，以便您具有在其中存储建议更改的读/写权限。[!UICONTROL Adobe Experience Cloud] 文档位于github.com上的多个 [不同存储库中](https://www.github.com/adobedocs)。
 
 1. 如果不确定要使用哪个存储库，请使用 Web 浏览器访问文章。选择文章右上角的 **Edit**（编辑）链接（铅笔图标）。（如果未看到“Edit”（编辑）链接，则表示该内容在 GitHub 中尚不可用。）
 
@@ -46,7 +49,7 @@ If you're new to GitHub, watch the following video for a conceptual overview of 
 
 使用适当的存储库，使用 GitHub 网站在您自己的 GitHub 帐户中创建分支存储库。
 
-由于所有主文档存储库都提供只读访问权限，这意味着您无法直接对存储库中的内容进行更改，因此需要使用个人分支存储库。要进行更改，您必须从分支存储库将拉取请求 (PR) 提交到主存储库。要实现此目的，首先您需要创建自己的存储库副本，以便具有写入权限。GitHub *分支存储库*可实现这一点。
+由于所有主文档存储库都提供只读访问权限，这意味着您无法直接对存储库中的内容进行更改，因此需要使用个人分支存储库。要进行更改，您必须从分支存储库将拉取请求 (PR) 提交到主存储库。要实现此目的，首先您需要创建自己的存储库副本，以便具有写入权限。GitHub *分支存储库*&#x200B;可实现这一点。
 
 1. 转到主存储库的 GitHub 页面，然后单击右上角的 **Fork**（创建分支）按钮。
 
@@ -58,8 +61,9 @@ If you're new to GitHub, watch the following video for a conceptual overview of 
 
    某些存储库可能较大。选择的位置应具有足够的可用磁盘空间。
 
-   > [!NOTE]
-   > 避免选择嵌套在另一个 git 存储库文件夹位置内的本地文件夹路径。尽管可以将 git 克隆文件夹存储在另一个文件夹旁边，但将 git 文件夹嵌套在另一个文件夹中会导致文件跟踪错误。
+   >[!NOTE]
+   >
+   >避免选择嵌套在另一个 git 存储库文件夹位置内的本地文件夹路径。尽管可以将 git 克隆文件夹存储在另一个文件夹旁边，但将 git 文件夹嵌套在另一个文件夹中会导致文件跟踪错误。
 
 ## 创建存储库的本地克隆
 
