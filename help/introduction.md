@@ -3,8 +3,11 @@ title: Adobe 文档参与者指南
 seo-title: Adobe Experience Cloud 技术文档的参与者指南概览
 description: 该指南介绍了如何向 Adobe 文档站点提供建议和添加内容。
 seo-description: 该指南介绍了如何向 [!UICONTROL Adobe Experience Cloud] 技术文档投稿。
-translation-type: ht
-source-git-commit: afcd9363375adbc21a0e9a027d3f5ce59e08cd70
+translation-type: tm+mt
+source-git-commit: 46674c112935a2a98a12210db92129a1bc475c46
+workflow-type: tm+mt
+source-wordcount: '840'
+ht-degree: 100%
 
 ---
 
@@ -44,8 +47,9 @@ source-git-commit: afcd9363375adbc21a0e9a027d3f5ce59e08cd70
 1. 单击右列的 **`Edit this page`**（编辑此页）以转到 GitHub 上的 Markdown 源文件。
 1. 单击铅笔图标可编辑相关文章。
 
-   > [!NOTE]
-   > 如果铅笔图标呈灰显状态，则表明您需要登录您的 GitHub 帐户，或创建一个新帐户。
+   >[!NOTE]
+   >
+   >如果铅笔图标呈灰显状态，则表明您需要登录您的 GitHub 帐户，或创建一个新帐户。
 
    ![铅笔图标的位置](assets/edit-icon.png)
 
@@ -54,7 +58,9 @@ source-git-commit: afcd9363375adbc21a0e9a027d3f5ce59e08cd70
 
    ![提出更改建议](assets/submit-pull-request.png)
 
-   >[!NOTE]如果您收到有关签署“参与者许可协议”(CLA) 的验证错误消息，请单击 **Details**（详细信息），以打开相关的许可协议。签署协议（如果接受）。接下来，关闭并打开拉取请求，然后继续操作。
+   >[!NOTE]
+   >
+   >如果您收到有关签署“参与者许可协议”(CLA) 的验证错误消息，请单击 **Details**（详细信息），以打开相关的许可协议。签署协议（如果接受）。接下来，关闭并打开拉取请求，然后继续操作。
 
 以上就是所有步骤。谢谢！文档团队成员将审核并合并您的拉取请求。
 
@@ -66,8 +72,9 @@ source-git-commit: afcd9363375adbc21a0e9a027d3f5ce59e08cd70
 
    ![](assets/git_log_issue.png)
 
-   > [!NOTE]
-   > 您需要登录 GitHub 帐户或创建一个新帐户来记录问题。
+   >[!NOTE]
+   >
+   >您需要登录 GitHub 帐户或创建一个新帐户来记录问题。
 
    通过单击此链接，您可以使用“Github 问题”界面与我们一起快速记录问题。
 
