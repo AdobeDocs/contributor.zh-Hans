@@ -4,8 +4,11 @@ title: 如何使用 Markdown 编写文档
 seo-title: 如何使用 Markdown 编写 Adobe 文档
 description: 本文介绍了用于编写文章的 Markdown 语言的基础知识和参考信息。
 seo-description: 本文介绍了用于为 Adobe 文档编写文章的 Markdown 语言的基础知识和参考信息。
-translation-type: ht
-source-git-commit: 883f9d7a9a232fdb69db09d5e9409575c7f3bdd0
+translation-type: tm+mt
+source-git-commit: 46674c112935a2a98a12210db92129a1bc475c46
+workflow-type: tm+mt
+source-wordcount: '1377'
+ht-degree: 100%
 
 ---
 
@@ -105,6 +108,7 @@ This is not \*italicized\* type.
    >[!NOTE]
    >
    >This is note text.
+
 1. Do another step.
 ```
 
@@ -124,6 +128,7 @@ This is not \*italicized\* type.
    >[!NOTE]
    >
    >This is note text.
+
 1. Do another step.
 
 ### 表格
@@ -277,22 +282,26 @@ Adobe 文章对大多数文章格式使用标准 Markdown，例如段落、链�
 
 ```markdown
 >[!NOTE]
+>
 >This is a standard NOTE block.
 ```
 
 将显示为：
 
 >[!NOTE]
+>
 >This is a standard NOTE block.
 
 ```markdown
 >[!TIP]
+>
 >This is a standard tip.
 ```
 
 将显示为：
 
 >[!TIP]
+>
 >This is a standard tip.
 
 ### 视频
