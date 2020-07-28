@@ -4,11 +4,11 @@ title: 针对主要更改的 GitHub 参与工作流
 seo-title: 针对 Adobe 文档的主要更改的 GitHub 参与工作流
 description: 本文会向您介绍如何使用“主要”参与者工作流参与 adobe 文档的编写。
 seo-description: 本文会向您介绍如何使用“主要”参与者工作流参与 adobe 文档的编写。
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 46674c112935a2a98a12210db92129a1bc475c46
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1006'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
