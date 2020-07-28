@@ -4,11 +4,11 @@ title: 安装创作工具
 seo-title: 安装用于 Adobe 文档的 Git 和 GitHub 创作工具
 description: 本文可帮助您下载和安装将用于 Git/GitHub 以及编辑 Markdown 文件所需的客户端工具。
 seo-description: 本文可帮助您下载和安装将用于 Git/GitHub 以及编辑 Adobe 文档的 Markdown 文件所需的客户端工具。
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 46674c112935a2a98a12210db92129a1bc475c46
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '378'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
