@@ -3,9 +3,9 @@ title: 在本地设置 Git 存储库
 seo-title: 在本地设置适用于 Adobe 文档的 Git 存储库
 description: 本文为创建本地 Git 存储库及对 Adobe 文档做出贡献（包括创建分支存储库和克隆存储库过程）提供了指导。
 seo-description: 本文为创建本地 Git 存储库及对 Adobe 文档做出贡献（包括创建分支存储库和克隆存储库过程）提供了指导。
-translation-type: ht
-source-git-commit: 46674c112935a2a98a12210db92129a1bc475c46
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: d69ca7ee25e2a79151779687ef58d67a800f92e6
+workflow-type: tm+mt
 source-wordcount: '682'
 ht-degree: 100%
 
@@ -16,8 +16,8 @@ ht-degree: 100%
 
 本文介绍了在本地计算机上设置 git 存储库的步骤，旨在对 Adobe 文档做出贡献。参与者可以使用本地克隆的存储库来添加新文章、对现有文章进行主要编辑或更改作品。
 
-> [!IMPORTANT]
-> 如果您只对文章进行次要更改，则&#x200B;*不需要*&#x200B;完成本文中的步骤。只需单击“编辑”图标并在浏览器中进行文本编辑即可。
+>[!IMPORTANT]
+>如果您只对文章进行次要更改，则&#x200B;*不需要*&#x200B;完成本文中的步骤。只需单击“编辑”图标并在浏览器中进行文本编辑即可。
 
 ## 概述
 
