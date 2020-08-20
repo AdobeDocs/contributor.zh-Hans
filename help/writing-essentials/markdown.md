@@ -4,10 +4,10 @@ title: 如何使用 Markdown 编写文档
 seo-title: 如何使用 Markdown 编写 Adobe 文档
 description: 本文介绍了用于编写文章的 Markdown 语言的基础知识和参考信息。
 seo-description: 本文介绍了用于为 Adobe 文档编写文章的 Markdown 语言的基础知识和参考信息。
-translation-type: ht
-source-git-commit: 46674c112935a2a98a12210db92129a1bc475c46
-workflow-type: ht
-source-wordcount: '1377'
+translation-type: tm+mt
+source-git-commit: 27ba164070996d192c84493d83232484d2badb28
+workflow-type: tm+mt
+source-wordcount: '1329'
 ht-degree: 100%
 
 ---
@@ -220,13 +220,6 @@ function test() {
 function test() {
  console.log("notice the blank line before this function?");
 ```
-
-您可以指定代码块的属性以关闭行号（默认情况下为开启）或添加换行（默认情况下为关闭）。使用 {line-numbers=&quot;no&quot;} 和 {line-wrap=&quot;yes&quot;}。以下属性是自定义 Markdown 扩展。
-
-\`\`\`javascript {line-numbers=&quot;no&quot;}
-function test() {
-console.log(&quot;notice the blank line before this function?&quot;);
-\`\`\`
 
 ### 定义列表
 
