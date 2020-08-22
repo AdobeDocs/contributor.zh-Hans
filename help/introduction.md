@@ -2,12 +2,12 @@
 title: Adobe 文档参与者指南
 seo-title: Adobe Experience Cloud 技术文档的参与者指南概览
 description: 该指南介绍了如何向 Adobe 文档站点提供建议和添加内容。
-seo-description: 该指南介绍了如何向 [!UICONTROL Adobe Experience Cloud] 技术文档投稿。
-translation-type: ht
-source-git-commit: 46674c112935a2a98a12210db92129a1bc475c46
-workflow-type: ht
-source-wordcount: '840'
-ht-degree: 100%
+seo-description: The guide describes how you can contribute to the [!UICONTROL Adobe Experience Cloud] technical documentation.
+translation-type: tm+mt
+source-git-commit: c788a71cecf7b69698b649b6053e6740bcc22730
+workflow-type: tm+mt
+source-wordcount: '836'
+ht-degree: 98%
 
 ---
 
@@ -31,8 +31,8 @@ ht-degree: 100%
 关于如何与这类文档材料小组进行互动以及如何投稿，本指南概述了您需要了解的所有相关内容。
 
 <!--
-> [!IMPORTANT]
-> All repositories that publish to docs.adobe.com have adopted the [Adobe Open Source Code of Conduct](../code-of-conduct.md) or the [.NET Foundation Code of Conduct](https://dotnetfoundation.org/code-of-conduct). For more information, see the [Contributing](../contributing.md) article.
+>[!IMPORTANT]
+>All repositories that publish to docs.adobe.com have adopted the [Adobe Open Source Code of Conduct](../code-of-conduct.md) or the [.NET Foundation Code of Conduct](https://dotnetfoundation.org/code-of-conduct). For more information, see the [Contributing](../contributing.md) article.
 >
 > Minor corrections or clarifications to documentation and code examples in public repositories are covered by the [Adobe Documentation Terms of Use](https://www.adobe.com/legal/terms.html). New or significant changes generate a comment in the pull request, asking you to submit an online Contribution License Agreement (CLA) if you are not an employee of Adobe. We need you to complete the online form before we can review or accept your pull request.
 -->
