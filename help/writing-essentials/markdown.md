@@ -4,10 +4,10 @@ title: 如何使用 Markdown 编写文档
 seo-title: 如何使用 Markdown 编写 Adobe 文档
 description: 本文介绍了用于编写文章的 Markdown 语言的基础知识和参考信息。
 seo-description: 本文介绍了用于为 Adobe 文档编写文章的 Markdown 语言的基础知识和参考信息。
-translation-type: ht
-source-git-commit: 27ba164070996d192c84493d83232484d2badb28
-workflow-type: ht
-source-wordcount: '1329'
+translation-type: tm+mt
+source-git-commit: 4ebbbde3337183a19fd3a59ae091b621a092e6f8
+workflow-type: tm+mt
+source-wordcount: '1322'
 ht-degree: 100%
 
 ---
@@ -302,12 +302,12 @@ Adobe 文章对大多数文章格式使用标准 Markdown，例如段落、链�
 嵌入式视频不会呈现在 Markdown 本地，但您可以使用此 Markdown 扩展。
 
 ```markdown
->[!VIDEO](https://www.youtube.com/watch?v=A0EcD2AxvJE)
+>[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
 ```
 
 将显示为：
 
->[!VIDEO](https://www.youtube.com/watch?v=A0EcD2AxvJE)
+>[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
 
 ### 更多与此类似的内容
 
