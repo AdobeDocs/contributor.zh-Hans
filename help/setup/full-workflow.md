@@ -4,10 +4,10 @@ title: 针对主要更改的 GitHub 参与工作流
 seo-title: 针对 Adobe 文档的主要更改的 GitHub 参与工作流
 description: 本文会向您介绍如何使用“主要”参与者工作流参与 adobe 文档的编写。
 seo-description: 本文会向您介绍如何使用“主要”参与者工作流参与 adobe 文档的编写。
-translation-type: ht
-source-git-commit: c788a71cecf7b69698b649b6053e6740bcc22730
-workflow-type: ht
-source-wordcount: '1006'
+translation-type: tm+mt
+source-git-commit: 6ec1d13f80698cb5963c07656ef8183db735ff75
+workflow-type: tm+mt
+source-wordcount: '976'
 ht-degree: 100%
 
 ---
@@ -75,5 +75,3 @@ ht-degree: 100%
 ### 发布
 
 请记住，您的拉取请求必须先由 PR 审核人员合并，然后才能将更改包含在下一个预定发布运行中。通常，审核人员会按提交顺序审核/合并拉取请求。如果需要先合并您的拉取请求才能将其包含在特定的发布运行中，您需要提前与 PR 审核人员展开合作，以确保在发布之前进行合并。
-
-在您的稿件获得批准并被合并之后，docs.microsoft.com 发布过程会选中它们。根据管理要在其中投稿的存储库的团队，发布时间可能有所不同。
