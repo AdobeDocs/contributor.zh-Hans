@@ -3,11 +3,11 @@ title: Adobe 文档参与者指南
 seo-title: Adobe Experience Cloud 技术文档的参与者指南概览
 description: 该指南介绍了如何向 Adobe 文档站点提供建议和添加内容。
 seo-description: 该指南介绍了如何向 [!UICONTROL Adobe Experience Cloud] 技术文档投稿。
-translation-type: ht
-source-git-commit: c788a71cecf7b69698b649b6053e6740bcc22730
-workflow-type: ht
-source-wordcount: '836'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 8943af2fdf406b2e33db037bb60dfea97df2959a
+workflow-type: tm+mt
+source-wordcount: '837'
+ht-degree: 93%
 
 ---
 
@@ -44,7 +44,10 @@ ht-degree: 100%
 1. 签署[参与者许可协议 (CLA)](http://opensource.adobe.com/cla.html)（如果接受）。
 
    您只需提交一次 Adobe CLA 即可。
-1. 单击右列的 **`Edit this page`**（编辑此页）以转到 GitHub 上的 Markdown 源文件。
+1. Click the **`Edit this page`** icon in the right column to go to the markdown source file on GitHub.
+
+   ![编辑此页面图标](/help/assets/git_edit.png)
+
 1. 单击铅笔图标可编辑相关文章。
 
    >[!NOTE]
@@ -68,13 +71,13 @@ ht-degree: 100%
 
 让我们了解某段内容中问题的另一种简单方法是“记录问题”。
 
-1. 如果您看到某段内容有问题，请单击任意页面右下方的 `Log an Issue`（记录问题）链接。请参阅下图：
+1. If you see a problem with a piece of content, click the **`Log an Issue`** icon in the right column.
 
    ![](assets/git_log_issue.png)
 
    >[!NOTE]
    >
-   >您需要登录 GitHub 帐户或创建一个新帐户来记录问题。
+   >您需要登录GitHub帐户或创建新帐户来记录问题。
 
    通过单击此链接，您可以使用“Github 问题”界面与我们一起快速记录问题。
 
