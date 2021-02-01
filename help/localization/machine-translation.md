@@ -2,10 +2,10 @@
 title: Adobe Experience Cloud 产品文档的语言支持
 description: 该指南介绍了如何向 Adobe 文档站点提供建议和添加内容。
 translation-type: tm+mt
-source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
+source-git-commit: fe6adf7414680d4835a6402be2e8d1a5547cc7d8
 workflow-type: tm+mt
-source-wordcount: '653'
-ht-degree: 100%
+source-wordcount: '828'
+ht-degree: 98%
 
 ---
 
@@ -30,15 +30,13 @@ Adobe 认识到，您依赖于随时准备以 Adobe 产品支持的语言提供�
 
    ![翻译完成的页面](assets/french.png)
 
-<!--
-   In cases where your language version is not yet available, Adobe can automatically translate your content. Adobe's automatic translation service displays a message at the top of the page in a blue field:
+   如果尚未提供您的语言版本，Adobe 可以自动翻译您的内容。Adobe的自动翻译服务在右导航顶部显示一条消息：
 
-   ![Translation message](assets/machine-translation-message.png)
+   ![翻译消息](assets/machine-translation-message.png)
 
-   The content may be rendered in your language automatically, or you can click a link to trigger the translation. (This scenario may occur when you have clicked on the hyperlink to return to the English source from the translated page. It gives you the option of viewing the translated page on-demand.) You can at any time return to the English source.
+   可以自动使用您的语言显示内容，或者，您也可以单击链接以触发翻译。（当您单击超链接从翻译页面返回到源英文页面时，可能会发生这种情况。这样您就可以根据需要选择查看翻译页面。）您随时可以返回源英文页面。
 
-   Occasionally, the English source content might have been recently updated and published before the translations were completed. Upon clicking on your language in the dropdown menu, you will see a notification — in the light-blue horizontal bar at the top of the page — informing that the page was automatically translated from the previous version, with updated content to be available soon. You will be offered the choice to view the most recent English source content in a new browser window, if you prefer.
--->
+   有时候，在翻译完成之前，源英文内容可能进行了最新更新和发布。单击下拉菜单中的语言后，您会在页面顶部的浅蓝色水平栏中看到一则通知，告诉您页面是自动从前一版本翻译过来的，更新内容将于不久之后提供。如果您愿意，可以选择在新的浏览器窗口中查看最新的源英文内容。
 
 ## 为什么使用自动翻译
 
