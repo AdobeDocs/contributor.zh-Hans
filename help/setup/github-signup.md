@@ -1,14 +1,10 @@
 ---
-lastModified: 2018-10-15T00:00:00Z
 title: GitHub 帐户设置步骤
-seo-title: 适用于 Adobe Experience Cloud 文档的 Github 帐户设置步骤
 description: 要为 Adobe 文档撰写内容，必须逐步完成为 GitHub 设置帐户的过程。
-seo-description: 要为 Adobe 文档撰写内容，必须逐步完成为 GitHub 设置帐户的过程。
-index: true
-translation-type: ht
-source-git-commit: 46674c112935a2a98a12210db92129a1bc475c46
-workflow-type: ht
-source-wordcount: '235'
+translation-type: tm+mt
+source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
+workflow-type: tm+mt
+source-wordcount: '207'
 ht-degree: 100%
 
 ---
