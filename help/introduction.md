@@ -3,11 +3,11 @@ title: Adobe 文档参与者指南
 seo-title: Adobe Experience Cloud 技术文档的参与者指南概览
 description: 该指南介绍了如何向 Adobe 文档站点提供建议和添加内容。
 seo-description: 该指南介绍了如何向 [!UICONTROL Adobe Experience Cloud] 技术文档投稿。
-translation-type: ht
-source-git-commit: 8943af2fdf406b2e33db037bb60dfea97df2959a
-workflow-type: ht
-source-wordcount: '837'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
+workflow-type: tm+mt
+source-wordcount: '836'
+ht-degree: 95%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 ## 什么是协作文档
 
-2019 年，根据开源原则并利用 Github、Markdown 和 Adobe Experience Cloud 解决方案（其中包括 Adobe Experience Manager、Analytics、Launch 和 Target），Adobe Experience Cloud 的所有技术文档和支持内容正在过渡到一个崭新的平台。
+Adobe Experience Cloud和其他Adobe企业产品的技术文档和支持内容已过渡到新平台。 此新平台基于开放源码原则，这些原则利用Github、Markdown和Adobe Experience Cloud解决方案。
 
 这种开源模型提升了内容质量，并且加强了客户、文档团队和产品团队之间的沟通。如今，您在每个页面上都可以评价内容实用性、记录问题，甚至可以将有关的内容建议作为 Git 拉取请求 (PR) 进行投稿。Adobe 文档团队每天都在检查投送的稿件和有关问题，并且会根据需要进行更新和调整。
 
