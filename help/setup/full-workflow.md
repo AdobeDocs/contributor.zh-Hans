@@ -1,13 +1,10 @@
 ---
-lastModified: 2018-06-28T00:00:00Z
 title: 针对主要更改的 GitHub 参与工作流
-seo-title: 针对 Adobe 文档的主要更改的 GitHub 参与工作流
 description: 本文会向您介绍如何使用“主要”参与者工作流参与 adobe 文档的编写。
-seo-description: 本文会向您介绍如何使用“主要”参与者工作流参与 adobe 文档的编写。
-translation-type: ht
-source-git-commit: 6ec1d13f80698cb5963c07656ef8183db735ff75
-workflow-type: ht
-source-wordcount: '976'
+translation-type: tm+mt
+source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
+workflow-type: tm+mt
+source-wordcount: '950'
 ht-degree: 100%
 
 ---
