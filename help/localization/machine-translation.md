@@ -1,6 +1,6 @@
 ---
 title: Adobe Experience Cloud 产品文档的语言支持
-description: 该指南介绍了如何向 Adobe 文档站点提供建议和添加内容。
+description: 本指南介绍了如何向 Adobe 文档站点提供建议和添加内容。
 translation-type: tm+mt
 source-git-commit: fe6adf7414680d4835a6402be2e8d1a5547cc7d8
 workflow-type: tm+mt
