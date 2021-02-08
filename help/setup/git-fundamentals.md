@@ -1,11 +1,11 @@
 ---
 title: Git 和 GitHub 文档要点
 description: 本文概述了 Git、GitHub 存储库、内容的组织方式以及用于 Adobe 文档的命名约定。
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '660'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
