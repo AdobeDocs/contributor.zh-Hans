@@ -4,9 +4,9 @@ title: 在文档中使用链接
 seo-title: 在 Adobe Git/Markdown 文档中使用链接
 description: 本文就如何创建指向内容和图像的链接，提供了相关指导。
 seo-description: 本文就如何创建指向 Adobe 文档内容和图像的链接，提供了相关指导。
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '340'
 ht-degree: 100%
 
