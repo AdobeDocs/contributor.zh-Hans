@@ -1,9 +1,9 @@
 ---
 title: 在本地设置 Git 存储库
-description: 本文为创建本地 Git 存储库及对 Adobe 文档做出贡献（包括创建分支存储库和克隆存储库过程）提供了指导。
-translation-type: tm+mt
+description: 本文提供了有关如何创建本地 Git 存储库以及如何对 Adobe 文档做出贡献（包括创建分支存储库和克隆存储库的过程）的指导。
+translation-type: ht
 source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '653'
 ht-degree: 100%
 
