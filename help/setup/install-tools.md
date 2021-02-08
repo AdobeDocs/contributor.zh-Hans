@@ -1,9 +1,9 @@
 ---
 title: 安装创作工具
 description: 本文可帮助您下载和安装将用于 Git/GitHub 以及编辑 Markdown 文件所需的客户端工具。
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '345'
 ht-degree: 100%
 
