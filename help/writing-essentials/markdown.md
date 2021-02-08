@@ -1,11 +1,11 @@
 ---
 title: 如何使用 Markdown 编写文档
 description: 本文介绍了用于编写文章的 Markdown 语言的基础知识和参考信息。
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1240'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -223,7 +223,7 @@ Adobe 文章对大多数文章格式使用标准 Markdown，例如段落、链�
 
 ### 备注块
 
-您可以从以下类型的注释块中进行选择，以吸引对特定内容的注意：
+您可以从下面这些类型的备注块中选取，以吸引用户关注特定的内容：
 
 * `[!NOTE]`
 * `[!TIP]`
@@ -271,7 +271,7 @@ Adobe 文章对大多数文章格式使用标准 Markdown，例如段落、链�
 
 将显示为：
 
->[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12&captions=chi_hans)
 
 ### 更多与此类似的内容
 
@@ -341,7 +341,7 @@ Use the [!UICONTROL Visual Experience Composer] in [!DNL Target] to create your 
 
 以下是这些标点符号的“智能”版本的编码：
 
-* 左（开）引号：  `&#8220;`
+* 左（开）引号： `&#8220;`
 * 右（闭）引号：`&#8221;`
 * 右（闭）单引号或撇号：`&#8217;`
 * 左（开）单引号（很少使用）：`&#8216;`
@@ -350,7 +350,7 @@ Use the [!UICONTROL Visual Experience Composer] in [!DNL Target] to create your 
 
 如果在文件中的文本（而非代码）中使用尖括号（例如，表示占位符），则需要手动编码尖括号。否则，Markdown 会认为它们是一个 HTML 标记。
 
-例如，将 `<script name>` 编码为  `&lt;script name&gt;`
+例如，将 `<script name>` 编码为 `&lt;script name&gt;`
 
 ### 标题中的与号
 
