@@ -1,9 +1,9 @@
 ---
 title: GitHub 帐户设置步骤
-description: 要为 Adobe 文档撰写内容，必须逐步完成为 GitHub 设置帐户的过程。
-translation-type: tm+mt
+description: 要为 Adobe 文档撰写内容，必须逐步完成设置 GitHub 帐户的过程。
+translation-type: ht
 source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '207'
 ht-degree: 100%
 
