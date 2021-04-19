@@ -1,8 +1,14 @@
 ---
-source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
-translation-type: ht
+title: Adobe 行为准则
+description: 'Adobe 行为准则 '
+translation-type: tm+mt
+source-git-commit: 883a314481675cbe8cea97782ccf39b738690bf9
+workflow-type: tm+mt
+source-wordcount: '439'
+ht-degree: 100%
 
 ---
+
 # Adobe 行为准则
 
 ## 我们的承诺
@@ -46,4 +52,5 @@ translation-type: ht
 
 ## 归因
 
-本行为准则改编自[参与者公约](https://contributor-covenant.org)版本 1.4，该公约的网址：[https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4/)
+本行为准则改编自[参与者公约](https://contributor-covenant.org)版本 1.4，
+此公约位于 [https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4/)
