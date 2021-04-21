@@ -1,8 +1,15 @@
 ---
-source-git-commit: 40fdaf609e770f3084cbdc40ff685c27d476510c
-translation-type: ht
+title: 参与
+description: 参与此项目时，请遵循这套准则。
+exl-id: 01dc5fd4-4676-41b1-be7b-aa4a9ea2fe14
+translation-type: tm+mt
+source-git-commit: 758ff966b959b614dd9250017c2a4eb5df47ffd2
+workflow-type: tm+mt
+source-wordcount: '292'
+ht-degree: 96%
 
 ---
+
 # 参与
 
 感谢您的参与！
@@ -23,7 +30,8 @@ translation-type: ht
 
 ## 代码审阅
 
-应以拉取请求的形式提交所有提交，并需要由项目提交者进行审阅。有关发送拉取请求的更多信息，请阅读 [GitHub 的拉取请求文档](https://help.github.com/articles/about-pull-requests/)。
+应以拉取请求的形式提交所有提交，并需要由项目提交者进行审阅。有关发送拉取请求的更多信息，请阅读 [GitHub 的拉取请求文档](https://help.github.com/cn/github/collaborating-with-issues-and-pull-requests/about-pull-requests)。
+
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
