@@ -1,14 +1,13 @@
 ---
 title: 如何使用 Markdown 编写文档
 description: 本文介绍了用于编写文章的 Markdown 语言的基础知识和参考信息。
-translation-type: tm+mt
-source-git-commit: b8090869aa7b5a2ab62f7af09e1b5e289d8a392b
+exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
+source-git-commit: 4104aa1481263dabe20f2e3a117944f55a6fd800
 workflow-type: tm+mt
-source-wordcount: '1491'
-ht-degree: 76%
+source-wordcount: '1504'
+ht-degree: 72%
 
 ---
-
 
 # 如何使用 Markdown 编写技术文档
 
@@ -176,13 +175,13 @@ See [Overview example article](../../overview.md)
 
 ![Adobe Logo](assets/no-localize/adobe_standard_logo.png "Hover text")
 
-**注意：** 对于不应本地化的图像，请在assets文 `do-not-localize` 件夹中创建单独的文件夹。通常，没有文本的图像或仅包含样本内容的图像会放置在此处。 这可以消除assets文件夹中的任何“杂色”，并减少问题数量。
+**注意：** 对于不应进行本地化的图像，请在assets文件夹 `do-not-localize` 中创建一个单独的文件夹。通常，将放置没有文本的图像或仅包含示例内容的图像。 这可以消除assets文件夹中的任何“噪音”，并减少问题数量。
 
 ### 代码块
 
 Markdown 支持在句子中置入内联代码块，以及用于分隔句子的“受防护”块。有关详细信息，请参阅 [Markdown 对代码块的本机支持](https://daringfireball.net/projects/markdown/syntax#precode)
 
-使用重反撇号 (\`) 可在段落中创建内联代码样式。要创建特定的多行代码块，请在代码块前后添加三个反撇号 (\`\`\`)（在 Markdown 中称为“受防护的代码块”，在 AEM 中仅称为“代码块”组件）。对于受防护的代码块，在第一组反撇号之后添加代码语言，以便 Markdown 正确地高亮显示代码语法。示例：\`\`\`javascript
+使用反撇号(&amp;grave;))以在段落中创建内联代码样式。 要创建特定的多行代码块，请在代码块前后添加三个反撇号(&amp;grave;&amp;grave;&amp;grave;)(在Markdown中称为“受防护的代码块”，在AEM中只是“代码块”组件)。 对于受防护的代码块，在第一组反撇号之后添加代码语言，以便 Markdown 正确地高亮显示代码语法。示例：&amp;grave;&amp;grave&amp;grave;grave;javascript
 
 示例：
 
@@ -195,15 +194,6 @@ This is `inline code` within a paragraph of text.
 This is `inline code` within a paragraph of text.
 
 这是一个受防护的代码块：
-
-```markdown
-\```javascript
-function test() {
- console.log("notice the blank line before this function?");
-\```
-```
-
-将显示为：
 
 ```javascript
 function test() {
@@ -294,11 +284,11 @@ AEM 中的“更多与此类似的内容”组件显示在文章的末尾。此�
 
 ### UICONTROL和DNL
 
-我们的所有Markdown帮助内容最初都使用机器翻译进行本地化。 如果帮助从未本地化，则我们会保留机器翻译。 但是，如果帮助内容在过去已经本地化，则当内容在人工翻译过程中时，机器翻译的内容将充当占位符。
+我们所有的Markdown帮助内容最初都是使用机器翻译进行本地化的。 如果帮助从未进行本地化，则我们会保留机器翻译。 但是，如果帮助内容过去已经进行了本地化，则机器翻译的内容将在内容进行人工翻译的过程中充当占位符。
 
 **``**
 
-在机器翻译过程中，将针对本地化数据库检查标记为``的项，以便进行适当的翻译。 如果UI未本地化，则此标记将允许系统将UI引用保留为该特定语言(即 Analytics引用的意大利语版本)。
+在机器翻译期间，将针对本地化数据库检查标记为``的项目，以进行相应的翻译。 如果UI未本地化，则此标记将允许系统将该特定语言（即，）的UI引用留为英文。 Analytics引用的意大利语)。
 
 **示例：**
 
@@ -314,16 +304,16 @@ AEM 中的“更多与此类似的内容”组件显示在文章的末尾。此�
 1. The [!UICONTROL Processing Rules] dialog box appears.
 ```
 
-**注意：** 在三个标记选项中，这是提供高质量的最重要的选项，并且是强制性的。
+**注意：** 在三个标记选项中，这是交付高质量的最关键选项，并且是强制性的。
 
 **`[!DNL]`**
 
-通常，我们使用“不翻译”列表来告诉机器翻译引擎要保留的英语内容。 最常见的项目是长解决方案名称，如“Adobe Analytics”、“Adobe Campaign”和“Adobe Target”。 但是，在某些情况下，我们可能需要强制引擎使用英语，因为有关术语可能以特定或一般方式使用。 最明显的例子是“分析”、“活动”、“目标”等解决方案的简称。 机器很难理解这些是解决方案名称而非一般术语。 该标签还可用于始终保持英文的第三方名称/功能，或短语或句子等文本的短节，该短语或句子必须保持英文。
+通常，我们使用“不翻译”列表来告诉机器翻译引擎要保留的英文内容。 最流行的项目是诸如“Adobe Analytics”、“Adobe Campaign”和“Adobe Target”之类的长解决方案名称。 但是，在某些情况下，我们可能需要强制引擎使用英语，因为相关术语可能以特定或一般方式使用。 此最明显的情况是对“Analytics”、“促销活动”、“Target”等解决方案进行了简短命名。 计算机很难理解这些是解决方案名称，而不是一般术语。 该标记还可用于始终保持为英文的第三方名称/功能，或用于文本的较短部分，如必须保持为英文的短语或句子。
 
 **示例：**
 
-* 使用[!DNL Target]，您可以创建A/B测试以找到最佳
-* Adobe Analytics是收集您网站上的分析的强大解决方案。 [!DNL Analytics] 还可以帮助您使用报告轻松摘要数据。
+* 使用[!DNL Target]，可以创建A/B测试以找到最佳
+* Adobe Analytics是一款用于在您的网站上收集分析的强大解决方案。 [!DNL Analytics] 还可以帮助您进行报告以轻松摘要该数据。
 
 **来源：**
 
