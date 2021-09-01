@@ -2,9 +2,8 @@
 title: Git 和 GitHub 文档要点
 description: 本文概述了 Git、GitHub 存储库、内容的组织方式以及用于 Adobe 文档的命名约定。
 exl-id: 2b2ec764-4201-4bcd-802d-a034d6675793
-translation-type: tm+mt
 source-git-commit: 1b1678b33059f4bc8f7aff4690f1d775e6aee2d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '660'
 ht-degree: 100%
 
