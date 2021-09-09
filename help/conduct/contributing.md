@@ -1,12 +1,11 @@
 ---
 title: 参与
-description: 参与此项目时，请遵循这套准则。
+description: 在参与到此项目时，请遵循这一系列准则。
 exl-id: 01dc5fd4-4676-41b1-be7b-aa4a9ea2fe14
-translation-type: tm+mt
 source-git-commit: 758ff966b959b614dd9250017c2a4eb5df47ffd2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '292'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +21,7 @@ ht-degree: 96%
 
 ## 有疑问吗？
 
-首先，提交问题。该项目的现有提交者致力于围绕项目方向达成共识，并在问题线程中发布解决方案（如果适用）。
+首先，提交问题。该项目的现有提交者致力于围绕项目方向达成共识，并在问题讨论线索中发布解决方案（如果适用）。
 
 ## 参与者许可协议
 
@@ -44,4 +43,4 @@ submitting a pull request!
 
 ## 安全问题
 
-不应在此问题跟踪器上报告安全问题。而是[应该将安全问题提交给我们的安全专家](https://helpx.adobe.com/cn/security/alertus.html)
+不应在此问题跟踪器上报告安全问题，而是[应该将安全问题提交给我们的安全专家。](https://helpx.adobe.com/cn/security/alertus.html)
