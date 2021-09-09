@@ -3,9 +3,9 @@ title: 如何使用 Markdown 编写文档
 description: 本文介绍了用于编写文章的 Markdown 语言的基础知识和参考信息。
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
 source-git-commit: 4104aa1481263dabe20f2e3a117944f55a6fd800
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1504'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 
@@ -175,13 +175,13 @@ See [Overview example article](../../overview.md)
 
 ![Adobe Logo](assets/no-localize/adobe_standard_logo.png "Hover text")
 
-**注意：** 对于不应进行本地化的图像，请在assets文件夹 `do-not-localize` 中创建一个单独的文件夹。通常，将放置没有文本的图像或仅包含示例内容的图像。 这可以消除assets文件夹中的任何“噪音”，并减少问题数量。
+**注意：** 对于不应该本地化的图像，在 assets 文件夹中创建一个单独的 `do-not-localize` 文件夹。通常，没有文本的图像或仅包含示例内容的图像将放在此文件夹中。这可消除 assets 文件夹中的任何“噪音”并减少问题数量。
 
 ### 代码块
 
-Markdown 支持在句子中置入内联代码块，以及用于分隔句子的“受防护”块。有关详细信息，请参阅 [Markdown 对代码块的本机支持](https://daringfireball.net/projects/markdown/syntax#precode)
+Markdown 支持在句子中置入内联代码块，以及用于分隔句子的“受保护”块。有关详细信息，请参阅 [Markdown 对代码块的本机支持](https://daringfireball.net/projects/markdown/syntax#precode)
 
-使用反撇号(&amp;grave;))以在段落中创建内联代码样式。 要创建特定的多行代码块，请在代码块前后添加三个反撇号(&amp;grave;&amp;grave;&amp;grave;)(在Markdown中称为“受防护的代码块”，在AEM中只是“代码块”组件)。 对于受防护的代码块，在第一组反撇号之后添加代码语言，以便 Markdown 正确地高亮显示代码语法。示例：&amp;grave;&amp;grave&amp;grave;grave;javascript
+使用反撇号 ( &amp;grave; ) 在段落中创建内联代码样式。要创建特定的多行代码块，请在代码块之前和之后添加三个反撇号 (&amp;grave;&amp;grave;&amp;grave;)（在 Markdown 中称为“受保护的代码块”，在 AEM 中只是一个“代码块”组件）。对于受保护的代码块，在第一组反撇号之后添加代码语言，以便 Markdown 正确地高亮显示代码语法。示例：&amp;grave;&amp;grave;&amp;grave;javascript
 
 示例：
 
@@ -193,7 +193,7 @@ This is `inline code` within a paragraph of text.
 
 This is `inline code` within a paragraph of text.
 
-这是一个受防护的代码块：
+这是一个受保护的代码块：
 
 ```javascript
 function test() {
@@ -282,19 +282,19 @@ AEM 中的“更多与此类似的内容”组件显示在文章的末尾。此�
 >* [Article 2](https://helpx.adobe.com/cn/support/audience-manager.html)
 
 
-### UICONTROL和DNL
+### UICONTROL 和 DNL
 
-我们所有的Markdown帮助内容最初都是使用机器翻译进行本地化的。 如果帮助从未进行本地化，则我们会保留机器翻译。 但是，如果帮助内容过去已经进行了本地化，则机器翻译的内容将在内容进行人工翻译的过程中充当占位符。
+我们所有的 Markdown 帮助内容最初都是使用机器翻译进行本地化的。如果帮助内容从未本地化，那么我们会保留机器翻译。不过，如果帮助内容以前已经本地化，那么在人工翻译过程中，机器翻译的内容将充当占位符。
 
 **``**
 
-在机器翻译期间，将针对本地化数据库检查标记为``的项目，以进行相应的翻译。 如果UI未本地化，则此标记将允许系统将该特定语言（即，）的UI引用留为英文。 Analytics引用的意大利语)。
+在机器翻译过程中，会在本地化数据库中检查标记为 `` 的项目，以获取适当的翻译。在 UI 未本地化的情况下，此标记将允许系统针对特定语言保留英语 UI 参考（例如 意大利语的 Analytics 参考）。
 
 **示例：**
 
-1. 转到&#x200B;**[!UICONTROL Run Process]**&#x200B;屏幕。
-1. 选择&#x200B;**[!UICONTROL File > Print > Print All]**&#x200B;以打印服务器上的所有文件。
-1. 出现[!UICONTROL Processing Rules]对话框。
+1. 转到 **[!UICONTROL Run Process]** 屏幕。
+1. 选择 **[!UICONTROL File > Print > Print All]** 以打印服务器上的所有文件。
+1. 此时会显示 [!UICONTROL Processing Rules] 对话框。
 
 **来源：**
 
@@ -304,16 +304,16 @@ AEM 中的“更多与此类似的内容”组件显示在文章的末尾。此�
 1. The [!UICONTROL Processing Rules] dialog box appears.
 ```
 
-**注意：** 在三个标记选项中，这是交付高质量的最关键选项，并且是强制性的。
+**注意：** 在三个标记选项中，此选项对于交付高质量内容最关键，也是强制性的。
 
 **`[!DNL]`**
 
-通常，我们使用“不翻译”列表来告诉机器翻译引擎要保留的英文内容。 最流行的项目是诸如“Adobe Analytics”、“Adobe Campaign”和“Adobe Target”之类的长解决方案名称。 但是，在某些情况下，我们可能需要强制引擎使用英语，因为相关术语可能以特定或一般方式使用。 此最明显的情况是对“Analytics”、“促销活动”、“Target”等解决方案进行了简短命名。 计算机很难理解这些是解决方案名称，而不是一般术语。 该标记还可用于始终保持为英文的第三方名称/功能，或用于文本的较短部分，如必须保持为英文的短语或句子。
+通常，我们使用“不翻译”列表来告诉机器翻译引擎要保留哪些英文内容。最常见的项目是像“Adobe Analytics”、“Adobe Campaign”和“Adobe Target”这样的长解决方案名称。不过，在某些情况下，我们可能需要强制机器翻译引擎使用英语，因为相关术语可能会以特定或通用的方式使用。最明显的例子是解决方案的简短名称，例如“Analytics”、“Campaign”、“Target”等。机器很难理解这些是解决方案名称而不是通用术语。标记也可用于始终保留为英文的第三方名称/功能，或者用于较短的文本部分，例如必须保留为英文的短语或句子。
 
 **示例：**
 
-* 使用[!DNL Target]，可以创建A/B测试以找到最佳
-* Adobe Analytics是一款用于在您的网站上收集分析的强大解决方案。 [!DNL Analytics] 还可以帮助您进行报告以轻松摘要该数据。
+* 利用 [!DNL Target]，您可以创建 A/B 测试以找到最佳方案
+* Adobe Analytics 是一种功能强大的解决方案，可用于在您的网站上收集分析信息。[!DNL Analytics] 还可以帮助您进行报告，以便轻松地理解这些数据。
 
 **来源：**
 
@@ -344,7 +344,7 @@ AEM 中的“更多与此类似的内容”组件显示在文章的末尾。此�
 
 以下是这些标点符号的“智能”版本的编码：
 
-* 左（开）引号：  `&#8220;`
+* 左（开）引号： `&#8220;`
 * 右（闭）引号：`&#8221;`
 * 右（闭）单引号或撇号：`&#8217;`
 * 左（开）单引号（很少使用）：`&#8216;`
@@ -353,7 +353,7 @@ AEM 中的“更多与此类似的内容”组件显示在文章的末尾。此�
 
 如果在文件中的文本（而非代码）中使用尖括号（例如，表示占位符），则需要手动编码尖括号。否则，Markdown 会认为它们是一个 HTML 标记。
 
-例如，将 `<script name>` 编码为  `&lt;script name&gt;`
+例如，将 `<script name>` 编码为 `&lt;script name&gt;`
 
 ### 标题中的与号
 
