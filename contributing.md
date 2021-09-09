@@ -1,11 +1,10 @@
 ---
 title: 参与
-description: 有关对AdobeDocs文档的贡献的信息。
-translation-type: tm+mt
+description: 有关参与 AdobeDocs 文档的信息。
 source-git-commit: 883a314481675cbe8cea97782ccf39b738690bf9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '303'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +24,7 @@ ht-degree: 98%
 
 ## 有疑问吗？
 
-首先，提交问题。该项目的现有提交者致力于围绕项目方向达成共识，并在问题线程中发布解决方案（如果适用）。
+首先，提交问题。该项目的现有提交者致力于围绕项目方向达成共识，并在问题讨论线索中发布解决方案（如果适用）。
 
 ## 参与者许可协议
 
@@ -47,4 +46,4 @@ submitting a pull request!
 
 ## 安全问题
 
-不应在此问题跟踪器上报告安全问题。而是[应该将安全问题提交给我们的安全专家](https://helpx.adobe.com/cn/security/alertus.html)
+不应在此问题跟踪器上报告安全问题，而是[应该将安全问题提交给我们的安全专家。](https://helpx.adobe.com/cn/security/alertus.html)
