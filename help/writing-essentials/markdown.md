@@ -3,9 +3,9 @@ title: 如何使用 Markdown 编写文档
 description: 本文介绍了用于编写文章的 Markdown 语言的基础知识和参考信息。
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
 source-git-commit: 9e70d10dc1ba27b593de7febf32a3ba3910bfe21
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1489'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -181,7 +181,7 @@ See [Overview example article](../../overview.md)
 
 Markdown 支持在句子中置入内联代码块，以及用于分隔句子的“受保护”块。有关详细信息，请参阅 [Markdown 对代码块的本机支持](https://daringfireball.net/projects/markdown/syntax#precode)
 
-使用反撇号(`` ` ``)以在段落中创建内联代码样式。 要创建特定的多行代码块，请添加三个反撇号(` ``` `)代码块前后(在Markdown中称为“受防护的代码块”，在AEM中只称为“代码块”组件)。 对于受保护的代码块，在第一组反撇号之后添加代码语言，以便 Markdown 正确地高亮显示代码语法。示例: ` ```javascript`
+使用反撇号 (`` ` ``) 在段落中创建内联代码样式。要创建特定的多行代码块，请在代码块之前和之后添加三个反撇号 (` ``` `)（在 Markdown 中称为“受防护的代码块”，在 AEM 中只是一个“代码块”组件）。对于受保护的代码块，在第一组反撇号之后添加代码语言，以便 Markdown 正确地高亮显示代码语法。示例：` ```javascript`
 
 示例：
 
