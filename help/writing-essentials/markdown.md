@@ -1,11 +1,11 @@
 ---
 title: 如何使用 Markdown 编写文档
-description: 本文介绍了用于编写文章的 Markdown 语言的基础知识和参考信息。
+description: 了解Markdown创作的基础知识。 查找用于编写文章的Markdown语言的参考信息。
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: 9e70d10dc1ba27b593de7febf32a3ba3910bfe21
-workflow-type: ht
-source-wordcount: '1489'
-ht-degree: 100%
+source-git-commit: e9cd46132a673d5acd1e3db2f05a9c3c8e5bc30b
+workflow-type: tm+mt
+source-wordcount: '1500'
+ht-degree: 98%
 
 ---
 
@@ -16,6 +16,8 @@ Adobe 技术文档文章以名为 [Markdown](https://daringfireball.net/projects
 当我们在 GitHub 中存储 Adobe Docs 内容时，该内容可以使用名为 [GitHub Flavored Markdown (GFM)](https://help.github.com/categories/writing-on-github/) 的 Markdown 版本，该版本提供了额外的功能，可满足常见的格式需求。此外，Adobe 还通过几种方式扩展了 Markdown，以支持某些与帮助相关的功能，如备注、提示和嵌入式视频。
 
 ## Markdown 基础知识
+
+以下部分介绍了在Markdown中创作的基础知识。
 
 ### 标题
 
