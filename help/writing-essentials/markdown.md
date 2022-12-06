@@ -1,11 +1,11 @@
 ---
 title: 如何使用 Markdown 编写文档
-description: 了解Markdown创作的基础知识。 查找用于编写文章的Markdown语言的参考信息。
+description: 了解有关 Markdown 创作的基础知识。查找用于编写文章的 Markdown 语言的参考信息。
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
 source-git-commit: e9cd46132a673d5acd1e3db2f05a9c3c8e5bc30b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1500'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ Adobe 技术文档文章以名为 [Markdown](https://daringfireball.net/projects
 
 ## Markdown 基础知识
 
-以下部分介绍了在Markdown中创作的基础知识。
+以下部分介绍了使用 Markdown 进行创作的基础知识。
 
 ### 标题
 
