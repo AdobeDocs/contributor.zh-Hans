@@ -1,32 +1,33 @@
 ---
 title: Adobe 文档参与者指南
-seo-title: Adobe Experience Cloud 技术文档的参与者指南概览
-description: 该指南介绍了如何向 Adobe 文档站点提供建议和添加内容。
-seo-description: 该指南介绍了如何向 [!UICONTROL Adobe Experience Cloud] 技术文档投稿。
-translation-type: ht
-source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
-workflow-type: ht
-source-wordcount: '836'
-ht-degree: 100%
+seo-title: Contributor guide overview for Adobe Experience Cloud technical documentation
+description: 本指南介绍了如何向 Adobe 文档站点提供建议和添加内容。
+seo-description: The guide describes how you can contribute to the [!UICONTROL Adobe Experience Cloud] technical documentation.
+exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
+source-git-commit: 5a9bbe0663a1efa8a683e892a42faed18f072e8a
+workflow-type: tm+mt
+source-wordcount: '819'
+ht-degree: 87%
 
 ---
 
+# Adobe文档参与者指南
 
-# Adobe 文档的参与者指南概览
+本指南介绍如何贡献Adobe企业Experience League帮助。
 
-## 什么是协作文档
+## 什么是协作文档？
 
-适用于 Adobe Experience Cloud 以及其他过渡到新平台的 Adobe 企业级产品的技术文档和支持内容。这种新平台所依据的开源原则利用了 Github、Markdown 和 Adobe Experience Cloud 解决方案。
+Adobe Experience Cloud和其他Adobe企业产品的技术文档和支持内容基于使用GitHub、Markdown和Adobe Experience Cloud解决方案的开源原则。
 
-这种开源模型提升了内容质量，并且加强了客户、文档团队和产品团队之间的沟通。如今，您在每个页面上都可以评价内容实用性、记录问题，甚至可以将有关的内容建议作为 Git 拉取请求 (PR) 进行投稿。Adobe 文档团队每天都在检查投送的稿件和有关问题，并且会根据需要进行更新和调整。
+此开源模型可提高内容质量并改善客户、文档团队和产品团队之间的沟通。 如今，您在每个页面上都可以评价内容实用性、记录问题，甚至可以将有关的内容建议作为 Git 拉取请求 (PR) 进行投稿。Adobe 文档团队每天都在检查投送的稿件和有关问题，并且会根据需要进行更新和调整。
 
-## 与“协作文档”团队合作
+## 使用协作文档
 
 作为本材料的用户 - 无论您是员工、合作伙伴、客户还是潜在客户 - 您都可以选择采取以下几种简便的方式，为这类文档投稿：
 
 * 评价页面的实用性
-* 针对特定页面，记录相关问题
-* 您甚至还可以这样 - 提交一些快速编辑的内容，进而可以创作整篇文章，并利用一些资产和代码示例来完成相应的稿件
+* 针对特定页面记录问题
+* 提交对整个文章的快速编辑以创作，以及使用资产和代码示例完成
 
 关于如何与这类文档材料小组进行互动以及如何投稿，本指南概述了您需要了解的所有相关内容。
 
