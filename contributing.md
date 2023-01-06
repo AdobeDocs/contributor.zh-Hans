@@ -1,9 +1,9 @@
 ---
 title: 参与
 description: 有关参与 AdobeDocs 文档的信息。
-source-git-commit: 883a314481675cbe8cea97782ccf39b738690bf9
-workflow-type: ht
-source-wordcount: '303'
+source-git-commit: 99540be2c2310e2250a0ceb14fb133b630ec397e
+workflow-type: tm+mt
+source-wordcount: '301'
 ht-degree: 100%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 ## 参与者指南文档
 
-请参阅[投稿人指南](https://docs.adobe.com/content/help/zh-Hans/contributor/contributor-guide/introduction.html)。
+请参阅[投稿人指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=zh-Hans)。
 
 ## 有疑问吗？
 
