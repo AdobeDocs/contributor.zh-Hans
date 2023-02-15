@@ -1,17 +1,17 @@
 ---
-title: Adobe 文档参与者指南
+title: Adobe文档参与者指南
 seo-title: Contributor guide overview for Adobe Experience Cloud technical documentation
 description: 本指南介绍了如何向 Adobe 文档站点提供建议和添加内容。
 seo-description: The guide describes how you can contribute to the [!UICONTROL Adobe Experience Cloud] technical documentation.
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
-source-git-commit: 90122796acee9214ba96360eb7b5ff5c321a4bd6
+source-git-commit: 8e7d5fb9dc5686df32f7d917ebfb290547d299be
 workflow-type: tm+mt
 source-wordcount: '800'
-ht-degree: 70%
+ht-degree: 69%
 
 ---
 
-# Adobe 文档参与者指南
+# Adobe文档参与者指南
 
 本指南介绍如何贡献Adobe企业Experience League帮助。
 
