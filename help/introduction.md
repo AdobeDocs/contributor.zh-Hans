@@ -4,30 +4,34 @@ seo-title: Contributor guide overview for Adobe Experience Cloud technical docum
 description: 本指南介绍了如何向 Adobe 文档站点提供建议和添加内容。
 seo-description: The guide describes how you can contribute to the [!UICONTROL Adobe Experience Cloud] technical documentation.
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
-source-git-commit: 8e7d5fb9dc5686df32f7d917ebfb290547d299be
+source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
 workflow-type: tm+mt
-source-wordcount: '800'
-ht-degree: 69%
+source-wordcount: '904'
+ht-degree: 49%
 
 ---
 
 # Adobe文档参与者指南
 
-本指南介绍如何贡献Adobe企业Experience League帮助。
+本指南介绍如何为Adobe有关Experience League的企业帮助做出贡献。
 
 ## 什么是协作文档？
 
-Adobe Experience Cloud和其他Adobe企业产品的技术文档和支持内容基于使用GitHub、Markdown和Adobe Experience Cloud解决方案的开源原则。
+Adobe Experience Cloud和其他Adobe企业版产品的技术文档和支持内容基于使用GitHub、Markdown和Adobe Experience Cloud解决方案的开源原则。
 
-此开源模型可提高内容质量并改善客户、文档团队和产品团队之间的沟通。 如今，您在每个页面上都可以评价内容实用性、记录问题，甚至可以将有关的内容建议作为 Git 拉取请求 (PR) 进行投稿。Adobe 文档团队每天都在检查投送的稿件和有关问题，并且会根据需要进行更新和调整。
+此开源模型提高了内容质量，加强了客户、文档团队和产品团队之间的沟通。 如今，您在每个页面上都可以评价内容实用性、记录问题，甚至可以将有关的内容建议作为 Git 拉取请求 (PR) 进行投稿。Adobe 文档团队每天都在检查投送的稿件和有关问题，并且会根据需要进行更新和调整。
 
 ## 使用协作文档
 
-作为本材料的用户 - 无论您是员工、合作伙伴、客户还是潜在客户 - 您都可以选择采取以下几种简便的方式，为这类文档投稿：
+作为此材料的用户，无论您是员工、合作伙伴、客户还是潜在客户，您都可以选择通过几种简单的方式为此文档投稿。
 
-* 评价页面的实用性
-* 针对特定页面记录问题
-* 提交对整个文章的快速编辑以创作，以及使用资产和代码示例完成
+* 对页面的实用性进行评分❶并撰写可选评论❷
+* 报告针对特定页面的问题（需要Git登录）❸
+* 提交快速编辑到以创作整篇文章，其中包含资产和代码示例（需要Git登录）❹
+
+![反馈](assets/feedback-options.png)
+
+这些选项会在页面打开后几秒钟显示在页面底部。 如果您关闭反馈区域，则可以重新加载页面以使其恢复。
 
 关于如何与这类文档材料小组进行互动以及如何投稿，本指南概述了您需要了解的所有相关内容。
 
@@ -38,16 +42,23 @@ Adobe Experience Cloud和其他Adobe企业产品的技术文档和支持内容�
 > Minor corrections or clarifications to documentation and code examples in public repositories are covered by the [Adobe Documentation Terms of Use](https://www.adobe.com/legal/terms.html). New or significant changes generate a comment in the pull request, asking you to submit an online Contribution License Agreement (CLA) if you are not an employee of Adobe. We need you to complete the online form before we can review or accept your pull request.
 -->
 
+## 对页面的实用程度进行评级并撰写评论
+
+打开页面几秒钟后，页面底部会显示一个反馈区域。 单击向上或向下以指示该页面是否有用。
+
+欢迎您随时发表评论，以提供更多反馈。
+
 ## 对现有文档进行快速编辑
 
-快速编辑非常适合修复文档中的小错误和遗漏。如果文章显示如下所示的编辑按钮，您可以自己进行快速修复。编辑文档时，您可以提交拉取请求 (PR) 以向我们提交修复/建议，之后，我们可以检查、批准和发布建议。
+如果您想提供更详细的反馈，快速编辑是修复文档中的小错误和遗漏的好方法。 当您提出编辑建议时，可以提交拉取请求(PR)以将修复/建议提交给我们，然后我们可以审核、批准和发布建议。
 
 1. 签署[参与者许可协议 (CLA)](http://opensource.adobe.com/cla.html)（如果接受）。
 
    您只需提交一次 Adobe CLA 即可。
-1. 单击 **[!UICONTROL Edit this page]** 在右列中，转到GitHub上的markdown源文件。
 
-   ![编辑此页面图标](/help/assets/git_edit.png)
+1. 在文章底部显示的反馈区域中，单击 **[!UICONTROL Detailed feedback options]**，然后单击 **[!UICONTROL Suggest an edit]** 以转到GitHub上的Markdown源文件。
+
+   ![编辑此页面图标](/help/assets/feedback-suggest-edit.png)
 
 1. 单击铅笔图标可编辑相关文章。
 
@@ -55,11 +66,12 @@ Adobe Experience Cloud和其他Adobe企业产品的技术文档和支持内容�
    >
    >如果铅笔图标呈灰显状态，则表明您需要登录您的 GitHub 帐户，或创建一个新帐户。
 
-   ![铅笔图标的位置](assets/edit-icon.png)
+   ![铅笔图标的位置](assets/git_edit.png)
 
 1. 在 Web 编辑器中进行更改。
 
    您可以单击 **[!UICONTROL Preview changes]**（预览更改）选项卡以检查所做更改的格式。
+
 1. 进行更改后，滚动到页面底部。
 
    输入PR的标题和描述，然后单击 **[!UICONTROL Propose file change]** 如下图所示：
@@ -72,19 +84,19 @@ Adobe Experience Cloud和其他Adobe企业产品的技术文档和支持内容�
 
 以上就是所有步骤。文档团队成员将审核并合并您的拉取请求。谢谢！
 
-## 记录问题
+## 报告问题
 
-让我们了解某段内容问题的另一种简单方法是使用 **[!UICONTROL Log an Issue]**.
+另一个向我们告知内容存在问题的简单方法是使用 **[!UICONTROL Report an issue]**.
 
-1. 如果您看到某段内容有问题，请单击右列的 **[!UICONTROL Log an Issue]** 图标。
+1. 在文章底部显示的反馈区域中，单击 **[!UICONTROL Detailed feedback options]**，然后单击 **[!UICONTROL Report an issue]** 以转到GitHub上的Markdown源文件。
 
-   ![](assets/git_log_issue.png)
+   ![报告问题](assets/feedback-report-issue.png)
 
    >[!NOTE]
    >
-   >要记录问题，您必须登录到您的GitHub帐户，或创建帐户。
+   >要报告问题，您必须登录到GitHub帐户，或创建一个帐户。
 
-   单击此链接，可使用“Github问题”界面快速记录Experience League。
+   单击此链接可让您使用Github问题界面快速记录带有Experience League的票证。
 
    描述字段中会自动填充存在问题的页面的URL。
 
@@ -92,7 +104,7 @@ Adobe Experience Cloud和其他Adobe企业产品的技术文档和支持内容�
 
    ![](assets/git_issue_example.png)
 
-提交问题时，会通知负责此页面的内容团队，他们可以解决您的问题。 更新内容后，我们会通过“Github 问题”界面通知您，并且会在内容更新或关闭时通过电子邮件通知您。
+提交问题会通知此页面的内容团队，以便他们解决您的问题。 更新内容后，我们会通过“Github 问题”界面通知您，并且会在内容更新或关闭时通过电子邮件通知您。
 
 ## 了解 GitHub 权限
 
@@ -106,4 +118,4 @@ Adobe 会对所有更改使用拉取请求，甚至对于具有写入权限的�
 
 要设置与 Adobe 一样大型的解决方案，文档工作始终任重而道远。如果发现错误，请将问题记录下来；如果想提供有关材料的建议，请告知我们。告诉我们您需要的信息。如果您无法找到所需内容，请告知我们；或者如果您在完成任务时遇到困难，请告诉我们可以如何帮助您了解我们的解决方案。
 
-请接受“协作文档”团队和Experience League中所有作者和内容制作人的谢意。
+在此，请接受“协作文档”团队及Experience League中所有作者和内容制作者的谢意。

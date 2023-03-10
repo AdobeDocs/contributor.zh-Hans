@@ -1,14 +1,13 @@
 ---
 title: 安装创作工具
 description: 本文可帮助您下载和安装将用于 Git/GitHub 以及编辑 Markdown 文件所需的客户端工具。
-translation-type: ht
-source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
-workflow-type: ht
+exl-id: 930185cf-fff5-485a-9824-70c32c55800d
+source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
+workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 100%
 
 ---
-
 
 # 安装创作工具
 
@@ -18,7 +17,7 @@ ht-degree: 100%
 >
 >如果您只对文章进行次要更改，则&#x200B;*不需要*&#x200B;完成本文中的步骤。只需在 Web 浏览器中进行更改即可。
 >
-> 鼓励进行主要更改的参与者完成这些步骤，以便能够使用[主要更改工作流](local-repo.md)。即使您具有主存储库的写入权限，我们仍强烈建议（并且本指南假设）您创建分支存储库和克隆存储库，这样您就具有读/写权限，可以将建议的更改存储在分支存储库中。
+>鼓励进行主要更改的参与者完成这些步骤，以便能够使用[主要更改工作流](local-repo.md)。即使您具有主存储库的写入权限，我们仍强烈建议（并且本指南假设）您创建分支存储库和克隆存储库，这样您就具有读/写权限，可以将建议的更改存储在分支存储库中。
 
 ## 安装 Git 客户端工具
 

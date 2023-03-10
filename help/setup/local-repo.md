@@ -1,14 +1,13 @@
 ---
 title: 在本地设置 Git 存储库
 description: 本文提供了有关如何创建本地 Git 存储库以及如何对 Adobe 文档做出贡献（包括创建分支存储库和克隆存储库的过程）的指导。
-translation-type: ht
-source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
-workflow-type: ht
+exl-id: 679c07a2-030b-4a30-ba14-7780f88dae11
+source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
+workflow-type: tm+mt
 source-wordcount: '653'
 ht-degree: 100%
 
 ---
-
 
 # 在本地设置适用于文档的 Git 存储库
 
@@ -71,8 +70,8 @@ If you're new to GitHub, watch the following video for a conceptual overview of 
 
 1. 单击 **Clone or download**（克隆或下载），然后选择 **Open in Desktop**（在桌面中打开），以将存储库的副本（您的分支）拉到计算机的当前目录中。
 
-![克隆存储库](assets/clone-pulldown.png)
+   ![克隆存储库](assets/clone-pulldown.png)
 
-1. 使用 GitHub Desktop，可以将本地文件与分支存储库文件保持同步。
+1. 使用 GitHub Desktop 以将本地文件与分支存储库文件保持同步。
 
 有关详细信息，请参阅 [GitHub Desktop 文档](https://help.github.com/desktop/)。
