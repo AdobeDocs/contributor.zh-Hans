@@ -2,10 +2,10 @@
 title: 如何使用 Markdown 编写文档
 description: 了解有关 Markdown 创作的基础知识。查找用于编写文章的 Markdown 语言的参考信息。
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: e9cd46132a673d5acd1e3db2f05a9c3c8e5bc30b
-workflow-type: ht
-source-wordcount: '1500'
-ht-degree: 100%
+source-git-commit: 065e43d5251f80050deef02e9c18b3fb4e9c1204
+workflow-type: tm+mt
+source-wordcount: '1430'
+ht-degree: 97%
 
 ---
 
@@ -86,11 +86,13 @@ This is not \*italicized\* type.
 1. Perform this step.
 
    ![screen](assets/no-localize/adobe_standard_logo.png)
+
 1. Make sure that your table looks like this: 
 
    | Hello | World |
    |---|---|
    | How | are you? |  
+
 1. This is the fourth step.
 
    >[!NOTE]
@@ -106,11 +108,13 @@ This is not \*italicized\* type.
 1. Perform this step.
 
    ![screen](assets/no-localize/adobe_standard_logo.png)
+
 1. Make sure that your table looks like this:
 
    | Hello | World |
    |---|---|
    | How | are you? |
+
 1. This is the fourth step.
 
    >[!NOTE]
@@ -177,8 +181,6 @@ See [Overview example article](../../overview.md)
 
 ![Adobe Logo](assets/no-localize/adobe_standard_logo.png "Hover text")
 
-**注意：** 对于不应该本地化的图像，在 assets 文件夹中创建一个单独的 `do-not-localize` 文件夹。通常，没有文本的图像或仅包含示例内容的图像将放在此文件夹中。这可消除 assets 文件夹中的任何“噪音”并减少问题数量。
-
 ### 代码块
 
 Markdown 支持在句子中置入内联代码块，以及用于分隔句子的“受保护”块。有关详细信息，请参阅 [Markdown 对代码块的本机支持](https://daringfireball.net/projects/markdown/syntax#precode)
@@ -208,10 +210,10 @@ Adobe 文章对大多数文章格式使用标准 Markdown，例如段落、链�
 
 * 备注块
 * 嵌入式视频
-* 不进行本地化
-* 组件属性，例如为标题指定不同的标题 ID
+* 翻译标记
+* 组件属性，例如为标题指定不同的标题ID和指定图像大小
 
-在每行开头使用 Markdown 块引用 ( > ) 可将扩展组件（例如备注）绑定在一起。如果需要在组件中使用子组件，请为该子组件部分添加额外级别的块引用 (>  >)。例如，DONOTLOCALIZE 部分中的“备注”应以 >    > 开头。
+在每行开头使用 Markdown 块引用 ( > ) 可将扩展组件（例如备注）绑定在一起。
 
 一些常见的 Markdown 元素（如标题和代码块）包含扩展属性。如果需要更改默认属性，请将参数添加到组件后面的大括号 /{ /} 中。上下文中介绍了扩展属性。
 
@@ -229,7 +231,6 @@ Adobe 文章对大多数文章格式使用标准 Markdown，例如段落、链�
 * `[!PREREQUISITES]`
 
 通常，应谨慎使用备注块，因为它们可能具有破坏性。尽管它们也支持代码块、图像、列表和链接，但请尽量保持备注块简单、直观。
-
 
 ```markdown
 >[!NOTE]
@@ -273,6 +274,7 @@ AEM 中的“更多与此类似的内容”组件显示在文章的末尾。此�
 
 ```markdown
 >[!MORELIKETHIS]
+>
 >* [Article 1](https://helpx.adobe.com/support/analytics.html)
 >* [Article 2](https://helpx.adobe.com/support/audience-manager.html)
 ```
@@ -280,6 +282,7 @@ AEM 中的“更多与此类似的内容”组件显示在文章的末尾。此�
 将显示为：
 
 >[!MORELIKETHIS]
+>
 >* [Article 1](https://helpx.adobe.com/cn/support/analytics.html)
 >* [Article 2](https://helpx.adobe.com/cn/support/audience-manager.html)
 
@@ -334,7 +337,7 @@ AEM 中的“更多与此类似的内容”组件显示在文章的末尾。此�
 ![Settings_Step_2](/assets/settings_step_2.png)
 ```
 
-最佳做法是在文件名中使用连字符 (-)，而不是下划线 (_)。
+我们的最佳做法是在文件名中使用连字符(-)，而不是下划线(_)。
 
 ```markdown
 ![Settings-Step-2](/assets/settings-step-2.png)
