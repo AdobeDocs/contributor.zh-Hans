@@ -2,9 +2,9 @@
 title: 如何使用 Markdown 编写文档
 description: 了解有关 Markdown 创作的基础知识。查找用于编写文章的 Markdown 语言的参考信息。
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: 065e43d5251f80050deef02e9c18b3fb4e9c1204
+source-git-commit: 19ea281ffce60c91edd0a47449152fc1138031c5
 workflow-type: tm+mt
-source-wordcount: '1430'
+source-wordcount: '1420'
 ht-degree: 97%
 
 ---
@@ -211,7 +211,7 @@ Adobe 文章对大多数文章格式使用标准 Markdown，例如段落、链�
 * 备注块
 * 嵌入式视频
 * 翻译标记
-* 组件属性，例如为标题指定不同的标题ID和指定图像大小
+* 组件属性，例如为标题分配不同的标题ID并指定图像大小
 
 在每行开头使用 Markdown 块引用 ( > ) 可将扩展组件（例如备注）绑定在一起。
 
@@ -229,32 +229,35 @@ Adobe 文章对大多数文章格式使用标准 Markdown，例如段落、链�
 * `[!ADMINISTRATION]`
 * `[!AVAILABILITY]`
 * `[!PREREQUISITES]`
+* `[!ERROR]`
+* `[!ADMINISTRATION]`
+* `[!INFO]`
+* `[!SUCCESS]`
 
 通常，应谨慎使用备注块，因为它们可能具有破坏性。尽管它们也支持代码块、图像、列表和链接，但请尽量保持备注块简单、直观。
 
+
 ```markdown
 >[!NOTE]
 >
 >This is a standard NOTE block.
 ```
 
-将显示为：
-
->[!NOTE]
->
->This is a standard NOTE block.
-
 ```markdown
 >[!TIP]
 >
->This is a standard tip.
+>This is a standard TIP.
+```
+
+```markdown
+>[!IMPORTANT]
+>
+>This is an IMPORTANT note.
 ```
 
 将显示为：
 
->[!TIP]
->
->This is a standard tip.
+![呈现的注释](assets/notes-rendered.png)
 
 ### 视频
 
@@ -337,7 +340,7 @@ AEM 中的“更多与此类似的内容”组件显示在文章的末尾。此�
 ![Settings_Step_2](/assets/settings_step_2.png)
 ```
 
-我们的最佳做法是在文件名中使用连字符(-)，而不是下划线(_)。
+我们的最佳实践是在文件名中使用连字符(-)，而不是下划线(_)。
 
 ```markdown
 ![Settings-Step-2](/assets/settings-step-2.png)
