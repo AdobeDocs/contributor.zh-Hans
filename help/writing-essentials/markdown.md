@@ -2,9 +2,9 @@
 title: 如何使用 Markdown 编写文档
 description: 了解有关 Markdown 创作的基础知识。查找用于编写文章的 Markdown 语言的参考信息。
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: aec38dde9195855f96e7469c91c28d50ad516ae6
+source-git-commit: 73c2a6b0abb9b0c8e1febc4b7dc5d74a3753ebac
 workflow-type: tm+mt
-source-wordcount: '1419'
+source-wordcount: '1421'
 ht-degree: 95%
 
 ---
@@ -275,12 +275,7 @@ Adobe 文章对大多数文章格式使用标准 Markdown，例如段落、链�
 
 AEM 中的“更多与此类似的内容”组件显示在文章的末尾。此部分会显示相关链接。呈现文章时，可以将其格式化为与 2 级标题 (##) 相同的格式而不添加到 mini-TOC。
 
-```markdown
->[!MORELIKETHIS]
->
->* [Article 1](https://helpx.adobe.com/support/analytics.html)
->* [Article 2](https://helpx.adobe.com/support/audience-manager.html)
-```
+![moreliketh语法](assets/more-like-this-syntax.png)
 
 将显示为：
 
