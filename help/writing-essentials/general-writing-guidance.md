@@ -4,8 +4,8 @@ title: 外部投稿人的创作风格指南
 description: 了解 Experience League 外部投稿人的创作和编辑指南。
 exl-id: 874f88d7-18ad-4ac8-bfa3-737255652bbc
 source-git-commit: 03d46c9ffb664824f9526f781d776069d486f271
-workflow-type: ht
-source-wordcount: '2227'
+workflow-type: tm+mt
+source-wordcount: '2224'
 ht-degree: 100%
 
 ---
@@ -162,7 +162,7 @@ _标题_&#x200B;和&#x200B;_描述_&#x200B;元数据对于 Experience League 上
 | 将&#x200B;_单击_&#x200B;更改为&#x200B;_转到_&#x200B;或&#x200B;_选择_ | _单击_&#x200B;是一个特定于设备的词汇（存在可访问性问题），其目的是离开当前操作项，前往下一个操作。以下是更改建议：<ul><li>导航：_转到文件 > 打印_。</li><li>单击：_选择文件 > 打印_&#x200B;或&#x200B;_选择确定_。 </li></ul>请参阅[描述与 UI 的交互](https://docs.microsoft.com/en-us/style-guide/procedures-instructions/describing-interactions-with-ui)，了解有关在各种情况下最佳单词选择的更多原则。 |
 | 在 VSC 中运行 Acrolinx | Acrolinx 检查风格和语法问题，还检查 URL、术语、拼写等。可以帮助您提高清晰度并改进 Experience League 内容的翻译。 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 更多最佳实践和资源：
 

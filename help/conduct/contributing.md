@@ -3,7 +3,7 @@ title: 参与
 description: 在参与到此项目时，请遵循这一系列准则。
 exl-id: 01dc5fd4-4676-41b1-be7b-aa4a9ea2fe14
 source-git-commit: 758ff966b959b614dd9250017c2a4eb5df47ffd2
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 100%
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 ## 行为准则
 
-此项目遵守 Adobe [行为准则](code-of-conduct.md)。参与此项目时，您应遵守本准则。请联系 [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com) 举报不可接受的行为。
+此项目遵守 Adobe [行为准则](code-of-conduct.md)。参与此项目时，您应遵守本准则。请联系 [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com) 举报难以接受的行为。
 
 ## 有疑问吗？
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 ## 参与者许可协议
 
-所有参与到该项目的第三方稿件都必须附有签署的参与者许可协议。这将允许 Adobe 重新分配您在项目中的稿件。[签署我们的 CLA](http://opensource.adobe.com/cla.html)。您只需提交一次 Adobe CLA 即可，因此如果您之前已提交了一次，那么无需重新提交！
+所有对本项目的第三方贡献都必须附有签署的参与者许可协议。这将允许 Adobe 重新分配您在项目中的稿件。[签署我们的 CLA](http://opensource.adobe.com/cla.html)。您只需提交一次 Adobe CLA 即可，因此如果您之前已提交了一次，那么无需重新提交！
 
 ## 代码审阅
 

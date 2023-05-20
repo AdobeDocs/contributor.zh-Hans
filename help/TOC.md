@@ -4,8 +4,8 @@ cloud: Adobe
 index: true
 source-git-commit: 1acc8373c778c65b378a7e74d5c41418ce069ffe
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '69'
+ht-degree: 100%
 
 ---
 

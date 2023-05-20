@@ -1,8 +1,8 @@
 ---
 title: Adobe 行为准则
-description: 'Adobe 行为准则 '
+description: Adobe 行为准则
 source-git-commit: 883a314481675cbe8cea97782ccf39b738690bf9
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '439'
 ht-degree: 100%
 
