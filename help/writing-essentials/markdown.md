@@ -77,7 +77,7 @@ This is not \*italicized\* type.
 
 * First item in an unordered list.
 * Another item.
-* 再來一次。
+* 又来了。
 
 您还可以在列表中嵌入列表并在列表项之间添加内容。
 
@@ -119,7 +119,7 @@ This is not \*italicized\* type.
 
    >[!NOTE]
    >
-   >這是附註文字。
+   >这是注释文本。
 
 1. Do another step.
 
@@ -210,8 +210,8 @@ Adobe 文章对大多数文章格式使用标准 Markdown，例如段落、链�
 
 * 备注块
 * 嵌入式视频
-* 翻譯標籤
-* 元件屬性，例如為標題指定不同的標題ID和指定影像大小
+* 翻译标记
+* 组件属性，例如为标题指定不同的标题ID和指定图像大小
 
 在每行开头使用 Markdown 块引用 ( > ) 可将扩展组件（例如备注）绑定在一起。
 
@@ -257,7 +257,7 @@ Adobe 文章对大多数文章格式使用标准 Markdown，例如段落、链�
 
 将显示为：
 
-![已呈現的備註](assets/notes-rendered.png)
+![渲染的注释](assets/notes-rendered.png)
 
 ### 视频
 
@@ -275,7 +275,7 @@ Adobe 文章对大多数文章格式使用标准 Markdown，例如段落、链�
 
 AEM 中的“更多与此类似的内容”组件显示在文章的末尾。此部分会显示相关链接。呈现文章时，可以将其格式化为与 2 级标题 (##) 相同的格式而不添加到 mini-TOC。
 
-![Morelikethis語法](assets/more-like-this-syntax.png)
+![morelikethis语法](assets/more-like-this-syntax.png)
 
 将显示为：
 
@@ -307,7 +307,7 @@ AEM 中的“更多与此类似的内容”组件显示在文章的末尾。此�
 ```
 
 >[!NOTE]
-在三個標籤選項中，這是提供高品質內容最重要的一項，且屬於強制規定。
+在三个标记选项中，此选项对于交付高质量内容最关键，也是强制性的。
 
 **`[!DNL]`**
 
@@ -335,7 +335,7 @@ AEM 中的“更多与此类似的内容”组件显示在文章的末尾。此�
 ![Settings_Step_2](/assets/settings_step_2.png)
 ```
 
-在檔案名稱中使用連字型大小(-)而非底線(_)，會是最理想的作法。
+我们的最佳做法是在文件名中使用连字符(-)，而不是下划线(_)。
 
 ```markdown
 ![Settings-Step-2](/assets/settings-step-2.png)
