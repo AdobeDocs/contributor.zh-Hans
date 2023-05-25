@@ -185,7 +185,7 @@ See [Overview example article](../../overview.md)
 
 Markdown 支持在句子中置入内联代码块，以及用于分隔句子的“受保护”块。有关详细信息，请参阅 [Markdown 对代码块的本机支持](https://daringfireball.net/projects/markdown/syntax#precode)
 
-使用反撇号 (`` ` ``) 在段落中创建内联代码样式。要创建特定的多行代码块，请在代码块之前和之后添加三个反撇号 (` ``` `)（在 Markdown 中称为“受防护的代码块”，在 AEM 中只是一个“代码块”组件）。对于受保护的代码块，在第一组反撇号之后添加代码语言，以便 Markdown 正确地高亮显示代码语法。示例：` ```javascript`
+使用反撇号 (`` ` ``) 在段落中创建内联代码样式。要创建特定的多行代码块，请在代码块之前和之后添加三个反撇号 (` ` `` `)（在 Markdown 中称为“受防护的代码块”，在 AEM 中只是一个“代码块”组件）。对于受保护的代码块，在第一组反撇号之后添加代码语言，以便 Markdown 正确地高亮显示代码语法。示例：` `` `javascript`
 
 示例：
 
@@ -280,17 +280,17 @@ AEM 中的“更多与此类似的内容”组件显示在文章的末尾。此�
 将显示为：
 
 >[!MORELIKETHIS]
-* [Article 1](https://helpx.adobe.com/cn/support/analytics.html)
-* [Article 2](https://helpx.adobe.com/cn/support/audience-manager.html)
+>* [Article 1](https://helpx.adobe.com/cn/support/analytics.html)
+>* [Article 2](https://helpx.adobe.com/cn/support/audience-manager.html)
 
 
 ### UICONTROL 和 DNL
 
 我们所有的 Markdown 帮助内容最初都是使用机器翻译进行本地化的。如果帮助内容从未本地化，那么我们会保留机器翻译。不过，如果帮助内容以前已经本地化，那么在人工翻译过程中，机器翻译的内容将充当占位符。
 
-**``**
+**&grave;&grave;**
 
-在机器翻译过程中，会在本地化数据库中检查标记为 `` 的项目，以获取适当的翻译。在 UI 未本地化的情况下，此标记将允许系统针对特定语言保留英语 UI 参考（例如 意大利语的 Analytics 参考）。
+在机器翻译过程中，会在本地化数据库中检查标记为 &grave;&grave; 的项目，以获取适当的翻译。在 UI 未本地化的情况下，此标记将允许系统针对特定语言保留英语 UI 参考（例如 意大利语的 Analytics 参考）。
 
 **示例：**
 
@@ -307,7 +307,7 @@ AEM 中的“更多与此类似的内容”组件显示在文章的末尾。此�
 ```
 
 >[!NOTE]
-在三个标记选项中，此选项对于交付高质量内容最关键，也是强制性的。
+>在三个标记选项中，此选项对于交付高质量内容最关键，也是强制性的。
 
 **`[!DNL]`**
 
