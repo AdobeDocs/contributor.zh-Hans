@@ -5,8 +5,8 @@ description: 本指南介绍了如何向 Adobe 文档站点提供建议和添加
 seo-description: The guide describes how you can contribute to the [!UICONTROL Adobe Experience Cloud] technical documentation.
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
 source-git-commit: 2721a71924c46e1536394625c945bdd791e8ac70
-workflow-type: tm+mt
-source-wordcount: '904'
+workflow-type: ht
+source-wordcount: '925'
 ht-degree: 100%
 
 ---
@@ -56,7 +56,7 @@ Adobe Experience Cloud 和其他 Adobe Enterprise 产品的技术文档和支持
 
    您只需提交一次 Adobe CLA 即可。
 
-1. 在出现在文章底部的反馈区域中，单击&#x200B;**[!UICONTROL Detailed feedback options]**，然后点击 **[!UICONTROL Suggest an edit]** 转到 GitHub 上的标记源文件。
+1. 在出现在文章底部的反馈区域中，单击&#x200B;**[!UICONTROL 详细的反馈选项]**，然后点击&#x200B;**[!UICONTROL 建议编辑]**，转到 GitHub 上的标记源文件。
 
    ![编辑此页面图标](/help/assets/feedback-suggest-edit.png)
 
@@ -74,7 +74,7 @@ Adobe Experience Cloud 和其他 Adobe Enterprise 产品的技术文档和支持
 
 1. 完成更改后，滚动到页面底部。
 
-   输入 PR 的标题和描述，然后单击 **[!UICONTROL Propose file change]**，如下图所示：
+   输入 PR 的标题和描述，然后单击 **[!UICONTROL Propose file change]**（建议文件更改），如下图所示：
 
    ![提出更改建议](assets/submit-pull-request.png)
 
@@ -86,9 +86,9 @@ Adobe Experience Cloud 和其他 Adobe Enterprise 产品的技术文档和支持
 
 ## 报告问题
 
-让我们了解某段内容中问题的另一种简单方法是使用 **[!UICONTROL Report an issue]**。
+让我们了解某段内容中问题的另一种简单方法使用&#x200B;**[!UICONTROL 报告问题]**&#x200B;功能。
 
-1. 在出现在文章底部的反馈区域中，单击&#x200B;**[!UICONTROL Detailed feedback options]**，然后点击 **[!UICONTROL Report an issue]** 转到 GitHub 上的标记源文件。
+1. 在出现在文章底部的反馈区域中，单击&#x200B;**[!UICONTROL 详细的反馈选项]**，然后点击&#x200B;**[!UICONTROL 报告问题]**，转到 GitHub 上的标记源文件。
 
    ![报告问题](assets/feedback-report-issue.png)
 
