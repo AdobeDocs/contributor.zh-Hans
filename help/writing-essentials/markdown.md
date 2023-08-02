@@ -3,9 +3,9 @@ title: 如何使用 Markdown 编写文档
 description: 了解有关 Markdown 创作的基础知识。查找用于编写文章的 Markdown 语言的参考信息。
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
 source-git-commit: 73c2a6b0abb9b0c8e1febc4b7dc5d74a3753ebac
-workflow-type: tm+mt
-source-wordcount: '1421'
-ht-degree: 95%
+workflow-type: ht
+source-wordcount: '1429'
+ht-degree: 100%
 
 ---
 
@@ -77,7 +77,7 @@ This is not \*italicized\* type.
 
 * First item in an unordered list.
 * Another item.
-* 又来了。
+* 让我们再来一次。
 
 您还可以在列表中嵌入列表并在列表项之间添加内容。
 
@@ -119,7 +119,7 @@ This is not \*italicized\* type.
 
    >[!NOTE]
    >
-   >这是注释文本。
+   >This is note text.
 
 1. Do another step.
 
@@ -185,7 +185,7 @@ See [Overview example article](../../overview.md)
 
 Markdown 支持在句子中置入内联代码块，以及用于分隔句子的“受保护”块。有关详细信息，请参阅 [Markdown 对代码块的本机支持](https://daringfireball.net/projects/markdown/syntax#precode)
 
-使用反撇号 (`` ` ``) 在段落中创建内联代码样式。要创建特定的多行代码块，请在代码块之前和之后添加三个反撇号 (` ` `` `)（在 Markdown 中称为“受防护的代码块”，在 AEM 中只是一个“代码块”组件）。对于受保护的代码块，在第一组反撇号之后添加代码语言，以便 Markdown 正确地高亮显示代码语法。示例：` `` `javascript`
+使用反撇号 (`` ` ``) 在段落中创建内联代码样式。要创建特定的多行代码块，请在代码块之前和之后添加三个反撇号 (` ``` `)（在 Markdown 中称为“受防护的代码块”，在 AEM 中只是一个“代码块”组件）。对于受保护的代码块，在第一组反撇号之后添加代码语言，以便 Markdown 正确地高亮显示代码语法。示例：` ```javascript`
 
 示例：
 
@@ -211,7 +211,7 @@ Adobe 文章对大多数文章格式使用标准 Markdown，例如段落、链�
 * 备注块
 * 嵌入式视频
 * 翻译标记
-* 组件属性，例如为标题指定不同的标题ID和指定图像大小
+* 组件属性，例如为标题分配不同的标题 ID 和指定图像大小
 
 在每行开头使用 Markdown 块引用 ( > ) 可将扩展组件（例如备注）绑定在一起。
 
@@ -257,7 +257,7 @@ Adobe 文章对大多数文章格式使用标准 Markdown，例如段落、链�
 
 将显示为：
 
-![渲染的注释](assets/notes-rendered.png)
+![呈现的注释](assets/notes-rendered.png)
 
 ### 视频
 
@@ -275,28 +275,28 @@ Adobe 文章对大多数文章格式使用标准 Markdown，例如段落、链�
 
 AEM 中的“更多与此类似的内容”组件显示在文章的末尾。此部分会显示相关链接。呈现文章时，可以将其格式化为与 2 级标题 (##) 相同的格式而不添加到 mini-TOC。
 
-![morelikethis语法](assets/more-like-this-syntax.png)
+![morelikethis 语法](assets/more-like-this-syntax.png)
 
 将显示为：
 
 >[!MORELIKETHIS]
->* [Article 1](https://helpx.adobe.com/cn/support/analytics.html)
->* [Article 2](https://helpx.adobe.com/cn/support/audience-manager.html)
-
+>
+* [Article 1](https://helpx.adobe.com/cn/support/analytics.html)
+* [Article 2](https://helpx.adobe.com/cn/support/audience-manager.html)
 
 ### UICONTROL 和 DNL
 
 我们所有的 Markdown 帮助内容最初都是使用机器翻译进行本地化的。如果帮助内容从未本地化，那么我们会保留机器翻译。不过，如果帮助内容以前已经本地化，那么在人工翻译过程中，机器翻译的内容将充当占位符。
 
-**&grave;&grave;**
+**``**
 
-在机器翻译过程中，会在本地化数据库中检查标记为 &grave;&grave; 的项目，以获取适当的翻译。在 UI 未本地化的情况下，此标记将允许系统针对特定语言保留英语 UI 参考（例如 意大利语的 Analytics 参考）。
+在机器翻译过程中，会在本地化数据库中检查标记为 `` 的项目，以获取适当的翻译。在 UI 未本地化的情况下，此标记将允许系统针对特定语言保留英语 UI 参考（例如 意大利语的 Analytics 参考）。
 
 **示例：**
 
-1. 转到 **[!UICONTROL Run Process]** 屏幕。
-1. 选择 **[!UICONTROL File > Print > Print All]** 以打印服务器上的所有文件。
-1. 此时会显示 [!UICONTROL Processing Rules] 对话框。
+1. 转到&#x200B;**[!UICONTROL 运行过程]**&#x200B;屏幕。
+1. 选择&#x200B;**[!UICONTROL 文件 > 打印 > 全部打印]**&#x200B;以打印服务器上的所有文件。
+1. [!UICONTROL 处理规则]对话框随即出现。
 
 **来源：**
 
@@ -307,7 +307,8 @@ AEM 中的“更多与此类似的内容”组件显示在文章的末尾。此�
 ```
 
 >[!NOTE]
->在三个标记选项中，此选项对于交付高质量内容最关键，也是强制性的。
+>
+在三个标记选项中，此选项对于交付高质量内容最关键，也是强制性的。
 
 **`[!DNL]`**
 
@@ -335,7 +336,7 @@ AEM 中的“更多与此类似的内容”组件显示在文章的末尾。此�
 ![Settings_Step_2](/assets/settings_step_2.png)
 ```
 
-我们的最佳做法是在文件名中使用连字符(-)，而不是下划线(_)。
+我们的最佳实践是在文件名中使用连字符 (-)，而不是下划线 (_)。
 
 ```markdown
 ![Settings-Step-2](/assets/settings-step-2.png)
