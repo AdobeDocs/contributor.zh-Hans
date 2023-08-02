@@ -281,8 +281,8 @@ AEM 中的“更多与此类似的内容”组件显示在文章的末尾。此�
 
 >[!MORELIKETHIS]
 >
-* [Article 1](https://helpx.adobe.com/cn/support/analytics.html)
-* [Article 2](https://helpx.adobe.com/cn/support/audience-manager.html)
+>* [Article 1](https://helpx.adobe.com/cn/support/analytics.html)
+>* [Article 2](https://helpx.adobe.com/cn/support/audience-manager.html)
 
 ### UICONTROL 和 DNL
 
@@ -308,7 +308,7 @@ AEM 中的“更多与此类似的内容”组件显示在文章的末尾。此�
 
 >[!NOTE]
 >
-在三个标记选项中，此选项对于交付高质量内容最关键，也是强制性的。
+>在三个标记选项中，此选项对于交付高质量内容最关键，也是强制性的。
 
 **`[!DNL]`**
 
