@@ -3,8 +3,8 @@ title: 在本地设置 Git 存储库
 description: 本文提供了有关如何创建本地 Git 存储库以及如何对 Adobe 文档做出贡献（包括创建分支存储库和克隆存储库的过程）的指导。
 exl-id: 679c07a2-030b-4a30-ba14-7780f88dae11
 source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
-workflow-type: tm+mt
-source-wordcount: '653'
+workflow-type: ht
+source-wordcount: '656'
 ht-degree: 100%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 100%
 
 ## 确定存储库
 
-在您自己的 GitHub 帐户中创建相应的分支存储库，以便您具有在其中存储建议更改的读/写权限。[!UICONTROL Adobe Experience Cloud] 文档位于 [github.com](https://www.github.com/adobedocs) 上的多个不同的存储库中。
+在您自己的 GitHub 帐户中创建相应的分支存储库，以便您具有在其中存储建议更改的读/写权限。[!UICONTROL Adobe Experience Cloud] 文档位于 [github.com](https://www.github.com/adobedocs) 上若干不同的存储库中。
 
 1. 如果不确定要使用哪个存储库，请使用 Web 浏览器访问文章。选择文章右上角的 **Edit**（编辑）链接（铅笔图标）。（如果未看到“Edit”（编辑）链接，则表示该内容在 GitHub 中尚不可用。）
 
