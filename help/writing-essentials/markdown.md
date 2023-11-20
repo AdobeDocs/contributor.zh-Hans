@@ -2,10 +2,10 @@
 title: 如何使用 Markdown 编写文档
 description: 了解有关 Markdown 创作的基础知识。查找用于编写文章的 Markdown 语言的参考信息。
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: 73c2a6b0abb9b0c8e1febc4b7dc5d74a3753ebac
-workflow-type: ht
-source-wordcount: '1429'
-ht-degree: 100%
+source-git-commit: bd0a7b34320435e1cebae95bc267ddf05b06a0f9
+workflow-type: tm+mt
+source-wordcount: '1431'
+ht-degree: 97%
 
 ---
 
@@ -183,7 +183,7 @@ See [Overview example article](../../overview.md)
 
 ### 代码块
 
-Markdown 支持在句子中置入内联代码块，以及用于分隔句子的“受保护”块。有关详细信息，请参阅 [Markdown 对代码块的本机支持](https://daringfireball.net/projects/markdown/syntax#precode)
+Markdown 支持在句子中置入内联代码块，以及用于分隔句子的“受保护”块。有关详细信息，请参阅 [Markdown 对代码块的本机支持](https://daringfireball.net/projects/markdown/syntax#precode)。
 
 使用反撇号 (`` ` ``) 在段落中创建内联代码样式。要创建特定的多行代码块，请在代码块之前和之后添加三个反撇号 (` ``` `)（在 Markdown 中称为“受防护的代码块”，在 AEM 中只是一个“代码块”组件）。对于受保护的代码块，在第一组反撇号之后添加代码语言，以便 Markdown 正确地高亮显示代码语法。示例：` ```javascript`
 
@@ -281,8 +281,8 @@ AEM 中的“更多与此类似的内容”组件显示在文章的末尾。此�
 
 >[!MORELIKETHIS]
 >
->* [Article 1](https://helpx.adobe.com/cn/support/analytics.html)
->* [Article 2](https://helpx.adobe.com/cn/support/audience-manager.html)
+* [Article 1](https://helpx.adobe.com/cn/support/analytics.html)
+* [Article 2](https://helpx.adobe.com/cn/support/audience-manager.html)
 
 ### UICONTROL 和 DNL
 
@@ -294,21 +294,21 @@ AEM 中的“更多与此类似的内容”组件显示在文章的末尾。此�
 
 **示例：**
 
-1. 转到&#x200B;**[!UICONTROL 运行过程]**&#x200B;屏幕。
-1. 选择&#x200B;**[!UICONTROL 文件 > 打印 > 全部打印]**&#x200B;以打印服务器上的所有文件。
-1. [!UICONTROL 处理规则]对话框随即出现。
+1. 转到&#x200B;**运行过程**&#x200B;屏幕。
+1. 选择 **文件** > **打印** > **全部打印** 以打印服务器上的所有文件。
+1. 处理规则对话框随即出现。
 
 **来源：**
 
 ```markdown
-1. Go to the **[!UICONTROL Run Process]** screen.
-1. Choose **[!UICONTROL File > Print > Print All]** to print all the files on your server.
-1. The [!UICONTROL Processing Rules] dialog box appears.
+1. Go to the **&lbrack;!UICONTROL Run Process&rbrack;** screen.
+1. Choose **&lbrack;!UICONTROL File&rbrack; > &lbrack;!UICONTROL Print&rbrack; > &lbrack;!UICONTROL Print All&rbrack;** to print all the files on your server.
+1. The &lbrack;!UICONTROL Processing Rules&rbrack; dialog box appears.
 ```
 
 >[!NOTE]
 >
->在三个标记选项中，此选项对于交付高质量内容最关键，也是强制性的。
+在三个标记选项中，此选项对于交付高质量内容最关键，也是强制性的。
 
 **`[!DNL]`**
 
@@ -316,14 +316,14 @@ AEM 中的“更多与此类似的内容”组件显示在文章的末尾。此�
 
 **示例：**
 
-* 利用 [!DNL Target]，您可以创建 A/B 测试以找到最佳方案
-* Adobe Analytics 是一种功能强大的解决方案，可用于在您的网站上收集分析信息。[!DNL Analytics] 还可以帮助您进行报告，以便轻松地理解这些数据。
+* 使用Target，您可以创建A/B测试以找到最佳方案
+* Adobe Analytics 是一种功能强大的解决方案，可用于在您的网站上收集分析信息。Analytics还可以帮助您进行报告，以便轻松地理解这些数据。
 
 **来源：**
 
 ```markdown
-* With [!DNL Target], you can create A/B tests to find the optimal 
-* Adobe Analytics is a powerful solution to collect analytics on your site. [!DNL Analytics] can also help you with reporting to easily digest that data.
+* With &lbrack;!DNL Target&rbrack;, you can create A/B tests to find the optimal 
+* Adobe Analytics is a powerful solution to collect analytics on your site. &lbrack;!DNL Analytics&rbrack; can also help you with reporting to easily digest that data.
 ```
 
 ## 难题和故障排除
