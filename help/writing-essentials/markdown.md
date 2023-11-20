@@ -2,10 +2,10 @@
 title: 如何使用 Markdown 编写文档
 description: 了解有关 Markdown 创作的基础知识。查找用于编写文章的 Markdown 语言的参考信息。
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: d3d478f8745c14ee500a43021597eecfebc7b06b
+source-git-commit: 109b2b72bd842a8d3f45bd5667690d8e71a6e329
 workflow-type: tm+mt
-source-wordcount: '1466'
-ht-degree: 92%
+source-wordcount: '1378'
+ht-degree: 97%
 
 ---
 
@@ -294,17 +294,15 @@ AEM 中的“更多与此类似的内容”组件显示在文章的末尾。此�
 
 **示例源内容：**
 
-1. 转到 **&amp;lbrack；！UICONTROL运行进程&amp;rbrack；** 屏幕。
-1. 选择 **&amp;lbrack；！UICONTROL File&amp;rbrack； > &amp;lbrack；！UICONTROL Print&amp;rbrack； > &amp;lbrack；！UICONTROL Print All&amp;rbrack；** 以打印服务器上的所有文件。
-1. 出现&amp;lbrack；！UICONTROL处理规则&amp;rbrack；对话框。
+![示例uicontrol文本](assets/sample-uicontrol.png)
 
 <!--
 **Source:**
 
 ```markdown
-1. Go to the **&lbrack;!UICONTROL Run Process&rbrack;** screen.
-1. Choose **&lbrack;!UICONTROL File&rbrack; > &lbrack;!UICONTROL Print&rbrack; > &lbrack;!UICONTROL Print All&rbrack;** to print all the files on your server.
-1. The &lbrack;!UICONTROL Processing Rules&rbrack; dialog box appears.
+1. Go to the **[!UICONTROL Run Process]** screen.
+1. Choose **[!UICONTROL File] > [!UICONTROL Print] > [!UICONTROL Print All]** to print all the files on your server.
+1. The [!UICONTROL Processing Rules] dialog box appears.
 ```
 -->
 
@@ -316,17 +314,16 @@ AEM 中的“更多与此类似的内容”组件显示在文章的末尾。此�
 
 通常，我们使用“不翻译”列表来告诉机器翻译引擎要保留哪些英文内容。最常见的项目是像“Adobe Analytics”、“Adobe Campaign”和“Adobe Target”这样的长解决方案名称。不过，在某些情况下，我们可能需要强制机器翻译引擎使用英语，因为相关术语可能会以特定或通用的方式使用。最明显的例子是解决方案的简短名称，例如“Analytics”、“Campaign”、“Target”等。机器很难理解这些是解决方案名称而不是通用术语。标记也可用于始终保留为英文的第三方名称/功能，或者用于较短的文本部分，例如必须保留为英文的短语或句子。
 
-**示例：**
+**示例源内容：**
 
-* 使用&amp;lbrack；！DNL Target&amp;rbrack；，您可以创建A/B测试以找到最佳方案
-* Adobe Analytics 是一种功能强大的解决方案，可用于在您的网站上收集分析信息。&amp;lbrack；！DNL Analytics&amp;rbrack；还可以帮助您进行报告，以便轻松地理解这些数据。
+![示例dnl文本](assets/sample-dnl.png)
 
 <!--
 **Source:**
 
 ```markdown
-* With &lbrack;!DNL Target&rbrack;, you can create A/B tests to find the optimal 
-* Adobe Analytics is a powerful solution to collect analytics on your site. &lbrack;!DNL Analytics&rbrack; can also help you with reporting to easily digest that data.
+* With [!DNL Target], you can create A/B tests to find the optimal 
+* Adobe Analytics is a powerful solution to collect analytics on your site. [!DNL Analytics] can also help you with reporting to easily digest that data.
 ```
 -->
 
