@@ -2,10 +2,10 @@
 title: 如何使用 Markdown 编写文档
 description: 了解有关 Markdown 创作的基础知识。查找用于编写文章的 Markdown 语言的参考信息。
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: bd0a7b34320435e1cebae95bc267ddf05b06a0f9
+source-git-commit: d3d478f8745c14ee500a43021597eecfebc7b06b
 workflow-type: tm+mt
-source-wordcount: '1431'
-ht-degree: 97%
+source-wordcount: '1466'
+ht-degree: 92%
 
 ---
 
@@ -292,23 +292,25 @@ AEM 中的“更多与此类似的内容”组件显示在文章的末尾。此�
 
 在机器翻译过程中，会在本地化数据库中检查标记为 `` 的项目，以获取适当的翻译。在 UI 未本地化的情况下，此标记将允许系统针对特定语言保留英语 UI 参考（例如 意大利语的 Analytics 参考）。
 
-**示例：**
+**示例源内容：**
 
-1. 转到&#x200B;**运行过程**&#x200B;屏幕。
-1. 选择 **文件** > **打印** > **全部打印** 以打印服务器上的所有文件。
-1. 处理规则对话框随即出现。
+1. 转到 **&amp;lbrack；！UICONTROL运行进程&amp;rbrack；** 屏幕。
+1. 选择 **&amp;lbrack；！UICONTROL File&amp;rbrack； > &amp;lbrack；！UICONTROL Print&amp;rbrack； > &amp;lbrack；！UICONTROL Print All&amp;rbrack；** 以打印服务器上的所有文件。
+1. 出现&amp;lbrack；！UICONTROL处理规则&amp;rbrack；对话框。
 
-**来源：**
+<!--
+**Source:**
 
 ```markdown
 1. Go to the **&lbrack;!UICONTROL Run Process&rbrack;** screen.
 1. Choose **&lbrack;!UICONTROL File&rbrack; > &lbrack;!UICONTROL Print&rbrack; > &lbrack;!UICONTROL Print All&rbrack;** to print all the files on your server.
 1. The &lbrack;!UICONTROL Processing Rules&rbrack; dialog box appears.
 ```
+-->
 
 >[!NOTE]
 >
-在三个标记选项中，此选项对于交付高质量内容最关键，也是强制性的。
+在两种标记选项中，此选项对于交付高质量内容最关键，也是强制性的。
 
 **`[!DNL]`**
 
@@ -316,15 +318,17 @@ AEM 中的“更多与此类似的内容”组件显示在文章的末尾。此�
 
 **示例：**
 
-* 使用Target，您可以创建A/B测试以找到最佳方案
-* Adobe Analytics 是一种功能强大的解决方案，可用于在您的网站上收集分析信息。Analytics还可以帮助您进行报告，以便轻松地理解这些数据。
+* 使用&amp;lbrack；！DNL Target&amp;rbrack；，您可以创建A/B测试以找到最佳方案
+* Adobe Analytics 是一种功能强大的解决方案，可用于在您的网站上收集分析信息。&amp;lbrack；！DNL Analytics&amp;rbrack；还可以帮助您进行报告，以便轻松地理解这些数据。
 
-**来源：**
+<!--
+**Source:**
 
 ```markdown
 * With &lbrack;!DNL Target&rbrack;, you can create A/B tests to find the optimal 
 * Adobe Analytics is a powerful solution to collect analytics on your site. &lbrack;!DNL Analytics&rbrack; can also help you with reporting to easily digest that data.
 ```
+-->
 
 ## 难题和故障排除
 
