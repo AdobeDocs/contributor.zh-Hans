@@ -2,10 +2,10 @@
 title: 如何使用 Markdown 编写文档
 description: 了解有关 Markdown 创作的基础知识。查找用于编写文章的 Markdown 语言的参考信息。
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: 109b2b72bd842a8d3f45bd5667690d8e71a6e329
+source-git-commit: fff920c9e98ca821a4180157174c2a2ee1b84cb8
 workflow-type: tm+mt
-source-wordcount: '1378'
-ht-degree: 97%
+source-wordcount: '1361'
+ht-degree: 99%
 
 ---
 
@@ -304,11 +304,11 @@ AEM 中的“更多与此类似的内容”组件显示在文章的末尾。此�
 1. Choose **[!UICONTROL File] > [!UICONTROL Print] > [!UICONTROL Print All]** to print all the files on your server.
 1. The [!UICONTROL Processing Rules] dialog box appears.
 ```
--->
 
 >[!NOTE]
 >
-在两种标记选项中，此选项对于交付高质量内容最关键，也是强制性的。
+>Of the two tagging options, this is the most crucial to deliver high quality and is mandatory.
+-->
 
 **`[!DNL]`**
 
