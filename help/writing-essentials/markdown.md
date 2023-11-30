@@ -3,9 +3,9 @@ title: 如何使用 Markdown 编写文档
 description: 了解有关 Markdown 创作的基础知识。查找用于编写文章的 Markdown 语言的参考信息。
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
 source-git-commit: fff920c9e98ca821a4180157174c2a2ee1b84cb8
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '1361'
+ht-degree: 100%
 
 ---
 
@@ -183,7 +183,7 @@ See [Overview example article](../../overview.md)
 
 ### 代码块
 
-Markdown 支持在句子中置入内联代码块，以及用于分隔句子的“受保护”块。有关详细信息，请参阅 [Markdown 对代码块的本机支持](https://daringfireball.net/projects/markdown/syntax#precode)。
+Markdown 支持在句子中置入内联代码块，以及用于分隔句子的“受保护”块。有关详细信息，请参阅 [Markdown 对代码块的本机支持](https://daringfireball.net/projects/markdown/syntax#precode)
 
 使用反撇号 (`` ` ``) 在段落中创建内联代码样式。要创建特定的多行代码块，请在代码块之前和之后添加三个反撇号 (` ``` `)（在 Markdown 中称为“受防护的代码块”，在 AEM 中只是一个“代码块”组件）。对于受保护的代码块，在第一组反撇号之后添加代码语言，以便 Markdown 正确地高亮显示代码语法。示例：` ```javascript`
 
@@ -292,9 +292,9 @@ AEM 中的“更多与此类似的内容”组件显示在文章的末尾。此�
 
 在机器翻译过程中，会在本地化数据库中检查标记为 `` 的项目，以获取适当的翻译。在 UI 未本地化的情况下，此标记将允许系统针对特定语言保留英语 UI 参考（例如 意大利语的 Analytics 参考）。
 
-**示例源内容：**
+**源内容示例：**
 
-![示例uicontrol文本](assets/sample-uicontrol.png)
+![uicontrol 文本示例](assets/sample-uicontrol.png)
 
 <!--
 **Source:**
@@ -314,9 +314,9 @@ AEM 中的“更多与此类似的内容”组件显示在文章的末尾。此�
 
 通常，我们使用“不翻译”列表来告诉机器翻译引擎要保留哪些英文内容。最常见的项目是像“Adobe Analytics”、“Adobe Campaign”和“Adobe Target”这样的长解决方案名称。不过，在某些情况下，我们可能需要强制机器翻译引擎使用英语，因为相关术语可能会以特定或通用的方式使用。最明显的例子是解决方案的简短名称，例如“Analytics”、“Campaign”、“Target”等。机器很难理解这些是解决方案名称而不是通用术语。标记也可用于始终保留为英文的第三方名称/功能，或者用于较短的文本部分，例如必须保留为英文的短语或句子。
 
-**示例源内容：**
+**源内容示例：**
 
-![示例dnl文本](assets/sample-dnl.png)
+![dnl 文本示例](assets/sample-dnl.png)
 
 <!--
 **Source:**
