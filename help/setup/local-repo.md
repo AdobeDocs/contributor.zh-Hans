@@ -3,8 +3,8 @@ title: 在本地设置 Git 存储库
 description: 本文提供了有关如何创建本地 Git 存储库以及如何对 Adobe 文档做出贡献（包括创建分支存储库和克隆存储库的过程）的指导。
 exl-id: 679c07a2-030b-4a30-ba14-7780f88dae11
 source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
-workflow-type: ht
-source-wordcount: '656'
+workflow-type: tm+mt
+source-wordcount: '652'
 ht-degree: 100%
 
 ---

@@ -3,8 +3,8 @@ title: 针对主要更改的 GitHub 参与工作流
 description: 了解如何为 Experience League 上的 Adobe 文档贡献内容。
 exl-id: ad467ad4-abd2-4166-8659-e29c48d268ec
 source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
-workflow-type: ht
-source-wordcount: '944'
+workflow-type: tm+mt
+source-wordcount: '941'
 ht-degree: 100%
 
 ---

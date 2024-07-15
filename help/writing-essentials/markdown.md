@@ -3,9 +3,9 @@ title: 如何使用 Markdown 编写文档
 description: 了解有关 Markdown 创作的基础知识。查找用于编写文章的 Markdown 语言的参考信息。
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
 source-git-commit: fff920c9e98ca821a4180157174c2a2ee1b84cb8
-workflow-type: ht
-source-wordcount: '1361'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '1340'
+ht-degree: 98%
 
 ---
 
@@ -145,7 +145,7 @@ Markdown 中可轻松处理简单的表格。但是，如果表格单元格中�
 
 有关创建表格的详细信息，请参阅：
 
-* GitHub 的[使用表格整理信息](https://help.github.com/articles/organizing-information-with-tables/)
+* GitHub的[使用表组织信息](https://help.github.com/articles/organizing-information-with-tables/)
 * [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables) Web 应用程序
 * [将 HTML 表转换为 Markdown](https://jmalarcon.github.io/markdowntables/)
 
@@ -183,7 +183,7 @@ See [Overview example article](../../overview.md)
 
 ### 代码块
 
-Markdown 支持在句子中置入内联代码块，以及用于分隔句子的“受保护”块。有关详细信息，请参阅 [Markdown 对代码块的本机支持](https://daringfireball.net/projects/markdown/syntax#precode)
+Markdown 支持在句子中置入内联代码块，以及用于分隔句子的“受保护”块。有关详细信息，请参阅[Markdown对代码块的本机支持](https://daringfireball.net/projects/markdown/syntax#precode)
 
 使用反撇号 (`` ` ``) 在段落中创建内联代码样式。要创建特定的多行代码块，请在代码块之前和之后添加三个反撇号 (` ``` `)（在 Markdown 中称为“受防护的代码块”，在 AEM 中只是一个“代码块”组件）。对于受保护的代码块，在第一组反撇号之后添加代码语言，以便 Markdown 正确地高亮显示代码语法。示例：` ```javascript`
 
@@ -358,7 +358,7 @@ AEM 中的“更多与此类似的内容”组件显示在文章的末尾。此�
 
 如果在文件中的文本（而非代码）中使用尖括号（例如，表示占位符），则需要手动编码尖括号。否则，Markdown 会认为它们是一个 HTML 标记。
 
-例如，将 `<script name>` 编码为 `&lt;script name&gt;`
+例如，将`<script name>`编码为`&lt;script name&gt;`
 
 ### 标题中的与号
 

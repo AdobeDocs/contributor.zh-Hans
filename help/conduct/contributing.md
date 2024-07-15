@@ -4,7 +4,7 @@ description: 在参与到此项目时，请遵循这一系列准则。
 exl-id: 01dc5fd4-4676-41b1-be7b-aa4a9ea2fe14
 source-git-commit: 758ff966b959b614dd9250017c2a4eb5df47ffd2
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '284'
 ht-degree: 100%
 
 ---
@@ -43,4 +43,4 @@ submitting a pull request!
 
 ## 安全问题
 
-不应在此问题跟踪器上报告安全问题，而是[应该将安全问题提交给我们的安全专家。](https://helpx.adobe.com/cn/security/alertus.html)
+不应在此问题跟踪器上报告安全问题，而是请[将安全性问题报告给我们的安全专家](https://helpx.adobe.com/cn/security/alertus.html)

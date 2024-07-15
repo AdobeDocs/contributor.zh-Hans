@@ -3,8 +3,8 @@ title: Git 和 GitHub 文档要点
 description: 本文概述了 Git、GitHub 存储库、内容的组织方式以及用于 Adobe 文档的命名约定。
 exl-id: 2b2ec764-4201-4bcd-802d-a034d6675793
 source-git-commit: 90122796acee9214ba96360eb7b5ff5c321a4bd6
-workflow-type: ht
-source-wordcount: '660'
+workflow-type: tm+mt
+source-wordcount: '658'
 ht-degree: 100%
 
 ---
@@ -33,7 +33,7 @@ Git 还使用分层结构来存储和管理项目的内容：
 参与者可与 Git 交互以更新和处理本地和 GitHub 两个级别的存储库：
 
 - 在本地通过 GitHub Desktop 等工具。
-- 通过 [www.github.com](https://www.github.com)，它集成了 Git 以管理流回主存储库中的稿件调整。
+- 通过 [www.github.com](https://www.github.com)，它集成了 Git 以管理流回主存储库中的稿件协调。
 
 ## GitHub
 

@@ -5,8 +5,8 @@ description: 了解 Experience League 外部投稿人的创作和编辑指南。
 exl-id: 874f88d7-18ad-4ac8-bfa3-737255652bbc
 source-git-commit: 03d46c9ffb664824f9526f781d776069d486f271
 workflow-type: tm+mt
-source-wordcount: '2224'
-ht-degree: 100%
+source-wordcount: '2203'
+ht-degree: 99%
 
 ---
 
@@ -188,17 +188,17 @@ Google 会考虑 SEO 结果中的替换文字。
 
 * `DNL`
 
-   DNL 表示&#x200B;_请勿本地化 (do not localize)_。您仅将其用于带有商标的 Adobe 产品名称，所有这些名称都必须保留英文。
+  DNL 表示&#x200B;_请勿本地化 (do not localize)_。您仅将其用于带有商标的 Adobe 产品名称，所有这些名称都必须保留英文。
 
-   语法示例：`[!DNL Adobe Campaign]` 或 `[!DNL Workfront]`
+  语法示例：`[!DNL Adobe Campaign]` 或 `[!DNL Workfront]`
 
-   DNL 不适用于文件名或 URL。
+  DNL 不适用于文件名或 URL。
 
 * `UICONTROL`
 
-   UICONTROL 表示界面控件（例如 UI 中的选项、字段、选项卡、页面、选项组或功能名称）。
+  UICONTROL 表示界面控件（例如 UI 中的选项、字段、选项卡、页面、选项组或功能名称）。
 
-   语法示例：`Select **[!UICONTROL Project]**, then select **[!UICONTROL Save]**.`
+  语法示例：`Select **[!UICONTROL Project]**, then select **[!UICONTROL Save]**.`
 
 >[!IMPORTANT]
 >
@@ -218,7 +218,7 @@ _受众是访客的集合（访客 ID 列表）。Adobe 的受众服务可管理
 
 第一段示例（任务）：
 
-_创建客户属性源（CSV 和 FIN 文件）并上传数据。您可以在做好准备时激活数据源。在数据源激活后，可将属性数据共享到 Analytics 和 Target。_
+_创建客户属性源（CSV 和 FIN 文件）并上传数据。您可以在做好准备时激活数据源。在数据源处于活动状态后，将属性数据共享到Analytics和Target。_
 
 ### 第一段的 SEO 技巧{#seo}
 

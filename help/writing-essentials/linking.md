@@ -35,27 +35,27 @@ ht-degree: 100%
 
 - 目录中的文章链接到同一目录中的另一篇文章：
 
-   `[link text](article-name.md)`
+  `[link text](article-name.md)`
 
 - 子目录中的文章链接到根目录中的文章：
 
-   `[link text](../article-name.md)`
+  `[link text](../article-name.md)`
 
 - 子目录的子目录中的文章链接到根目录中的文章：
 
-   `[link text](../../article-name.md)`
+  `[link text](../../article-name.md)`
 
 - 根目录中的文章链接到子目录中的文章：
 
-   `[link text](./directory/article-name.md)`
+  `[link text](./directory/article-name.md)`
 
 - 子目录中的文章链接到另一个子目录中的文章：
 
-   `[link text](../directory/article-name.md)`
+  `[link text](../directory/article-name.md)`
 
 - 子目录的子目录中的文章链接到另一个子目录中的文章：
 
-   `[link text](../../directory/article-name.md)`
+  `[link text](../../directory/article-name.md)`
 
 ## 链接到锚点
 
@@ -63,21 +63,21 @@ ht-degree: 100%
 
 - 链接到同一文章中的标题：
 
-   `[link](#the-text-of-the-level2-section-separated-by-hyphens)`
+  `[link](#the-text-of-the-level2-section-separated-by-hyphens)`
 
-   `[Link to anchors](#links-to-anchors)`
+  `[Link to anchors](#links-to-anchors)`
 
 - 链接到同一子目录中另一篇文章中的锚点：
 
-   `[link text](article-name.md#anchor-name)`
+  `[link text](article-name.md#anchor-name)`
 
-   `[Configure your profile](overview.md#getting-started)`
+  `[Configure your profile](overview.md#getting-started)`
 
 - 链接到另一个服务子目录中的锚点：
 
-   `[link text](../directory/article-name.md#anchor-name)`
+  `[link text](../directory/article-name.md#anchor-name)`
 
-   `[Configure your profile](../overview.md#configure-your-profile)`
+  `[Configure your profile](../overview.md#configure-your-profile)`
 
 ## 链接到图像
 
@@ -85,8 +85,8 @@ ht-degree: 100%
 
 - 文章链接到 `assets` 子目录中的图像：
 
-   `![alt text](assets/image-name.png)`
+  `![alt text](assets/image-name.png)`
 
 - 文章链接到 `assets/no-localize` 子目录中的图像：
 
-   `![alt text](assets/no-localize/image-name.png)`
+  `![alt text](assets/no-localize/image-name.png)`
