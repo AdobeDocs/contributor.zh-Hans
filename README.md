@@ -1,7 +1,7 @@
 ---
-source-git-commit: 99540be2c2310e2250a0ceb14fb133b630ec397e
-workflow-type: ht
-source-wordcount: '436'
+source-git-commit: 2b359dd199979fbba8c0491490d9d071b0e5db50
+workflow-type: tm+mt
+source-wordcount: '405'
 ht-degree: 100%
 
 ---
@@ -14,6 +14,7 @@ ht-degree: 100%
 该项目采用了 [Adobe Open Source 行为准则](code-of-conduct.md)或 [.NET Foundation 行为准则](https://dotnetfoundation.org/code-of-conduct)。有关更多信息，请参阅[参与](contributing.md)文章。
 
 ## 关于您对 Adobe 内容的贡献
+
 
 请参阅 [Adobe Docs 参与者指南](https://docs.adobe.com/help/en/contributor/contributor-guide/introduction.html)。
 
@@ -37,7 +38,7 @@ If you submit a pull request with significant changes to documentation and code 
 
 ### Adobe 员工做出的主要更改
 
-如果您是产品团队中负责提供 [!UICONTROL Adobe Experience Cloud] 解决方案的技术作家、项目经理或开发人员，并且您的工作是撰写或创作技术文章，则应使用位于 `https://git.corp.adobe.com/AdobeDocs` 的私有存储库。请参阅[内部协作指南](https://experienceleague.adobe.com/docs/collaborative-doc-instructions/collaboration-guide/home.html?lang=zh-Hans)。
+如果您是产品团队中负责提供 [!UICONTROL Adobe Experience Cloud] 解决方案的技术作家、项目经理或开发人员，并且您的工作是撰写或创作技术文章，则应使用位于 `https://git.corp.adobe.com/AdobeDocs` 的私有存储库。请参阅[内部协作指南](https://experienceleague.adobe.com/docs/collaborative-doc-instructions/collaboration-guide/home.html)。
 
 <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
 
