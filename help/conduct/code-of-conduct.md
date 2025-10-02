@@ -2,10 +2,10 @@
 title: Adobe 行为准则
 description: 有关报告问题和提交编辑更改的 Adobe 行为准则
 exl-id: ff9c1cc5-8f65-40bb-8d5b-b7d42a5c08c2
-source-git-commit: 06b0a397f0612e5ecfca82fc7105a45ed167efc9
+source-git-commit: 9b3e4e2a7a007d4e417a5bf156d2290ea60b64ec
 workflow-type: tm+mt
-source-wordcount: '442'
-ht-degree: 100%
+source-wordcount: '441'
+ht-degree: 96%
 
 ---
 
@@ -45,7 +45,8 @@ ht-degree: 100%
 
 ## 强制执行
 
-如要举报辱骂、骚扰或其他不可接受的行为事件，请通过 Grp-opensourceoffice@adobe.com 联系项目团队。维护团队会对所有认为有必要且适合的投诉进行审查及调查，并做出相应的回应。项目团队有义务为事件举报者保密。
+虐待、骚扰或其他不可接受的行为可能包括
+通过<Grp-opensourceoffice@adobe.com>联系项目团队报告。 维护团队会对所有认为有必要且适合的投诉进行审查及调查，并做出相应的回应。项目团队有义务为事件举报者保密。
 具体执行政策的进一步细节可能会单独发布。
 
 对于没有切实地遵守或执行本行为准则的项目维护人员，其他项目领导人成员可以决定暂时或是永久地取消其参与资格。
