@@ -4,10 +4,10 @@ seo-title: Contributor guide overview for Adobe Experience Cloud technical docum
 description: 本指南介绍了如何向 Adobe 文档站点提供建议和添加内容。
 seo-description: The guide describes how you can contribute to the [!UICONTROL Adobe Experience Cloud] technical documentation.
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
-source-git-commit: 2721a71924c46e1536394625c945bdd791e8ac70
+source-git-commit: 355ed3b7e1873272dd4c0626b51a48f37a026680
 workflow-type: tm+mt
 source-wordcount: '927'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 
@@ -25,9 +25,9 @@ Adobe Experience Cloud 和其他 Adobe Enterprise 产品的技术文档和支持
 
 作为本材料的用户 - 无论您是员工、合作伙伴、客户还是潜在客户 - 您都可以选择采取以下几种简便的方式，为这类文档投稿。
 
-* 评价页面是否有所帮助❶并撰写一条评论（可选）❷
-* 针对特定页面报告相关问题（需要登录 Git）❸
-* 从提交快速编辑内容，到创作整篇文章，包括资产和代码示例（需要登录 Git）❹
+* 对页面❶的实用程度进行评级并编写可选评论❷
+* 报告针对特定页面的问题（需要Git登录）❸
+* 提交快速编辑到以创作整篇文章，并完成资产和代码示例（需要Git登录）❹
 
 ![反馈](assets/feedback-options.png)
 
@@ -118,4 +118,4 @@ Adobe 会对所有更改使用拉取请求，甚至对于具有写入权限的�
 
 要设置与 Adobe 一样大型的解决方案，文档工作始终任重而道远。如果发现错误，请将问题记录下来；如果想提供有关材料的建议，请告知我们。告诉我们您需要的信息。如果您无法找到所需内容，请告知我们；或者如果您在完成任务时遇到困难，请告诉我们可以如何帮助您了解我们的解决方案。
 
-请接受协作文档团队及 Experience League 中所有作者和内容制作者的谢意。
+在此，请接受“协作文档”团队及Experience League中所有作者和内容制作者的谢意。 我们感谢您的帮助。
