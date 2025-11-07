@@ -4,9 +4,9 @@ seo-title: Contributor guide overview for Adobe Experience Cloud technical docum
 description: 本指南介绍了如何向 Adobe 文档站点提供建议和添加内容。
 seo-description: The guide describes how you can contribute to the [!UICONTROL Adobe Experience Cloud] technical documentation.
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
-source-git-commit: 355ed3b7e1873272dd4c0626b51a48f37a026680
+source-git-commit: 077555cf4e2c5559f19b8e38ba140ecdad9e5c29
 workflow-type: tm+mt
-source-wordcount: '927'
+source-wordcount: '906'
 ht-degree: 93%
 
 ---
@@ -56,7 +56,7 @@ Adobe Experience Cloud 和其他 Adobe Enterprise 产品的技术文档和支持
 
    您只需提交一次 Adobe CLA 即可。
 
-1. 在出现在文章底部的反馈区域中，单击&#x200B;**[!UICONTROL 详细的反馈选项]**，然后点击&#x200B;**[!UICONTROL 建议编辑]**，转到 GitHub 上的标记源文件。
+1. 在出现在文章底部的反馈区域中，单击&#x200B;**[!UICONTROL Detailed feedback options]**，然后点击 **[!UICONTROL Suggest an edit]** 转到 GitHub 上的标记源文件。
 
    ![编辑此页面图标](/help/assets/feedback-suggest-edit.png)
 
@@ -74,7 +74,7 @@ Adobe Experience Cloud 和其他 Adobe Enterprise 产品的技术文档和支持
 
 1. 完成更改后，滚动到页面底部。
 
-   输入 PR 的标题和描述，然后单击 **[!UICONTROL Propose file change]**（建议文件更改），如下图所示：
+   输入 PR 的标题和描述，然后单击 **[!UICONTROL Propose file change]**，如下图所示：
 
    ![提出更改建议](assets/submit-pull-request.png)
 
@@ -86,9 +86,9 @@ Adobe Experience Cloud 和其他 Adobe Enterprise 产品的技术文档和支持
 
 ## 报告问题
 
-让我们了解某段内容中问题的另一种简单方法使用&#x200B;**[!UICONTROL 报告问题]**&#x200B;功能。
+让我们了解某段内容中问题的另一种简单方法是使用 **[!UICONTROL Report an issue]**。
 
-1. 在出现在文章底部的反馈区域中，单击&#x200B;**[!UICONTROL 详细的反馈选项]**，然后点击&#x200B;**[!UICONTROL 报告问题]**，转到 GitHub 上的标记源文件。
+1. 在出现在文章底部的反馈区域中，单击&#x200B;**[!UICONTROL Detailed feedback options]**，然后点击 **[!UICONTROL Report an issue]** 转到 GitHub 上的标记源文件。
 
    ![报告问题](assets/feedback-report-issue.png)
 
@@ -118,4 +118,4 @@ Adobe 会对所有更改使用拉取请求，甚至对于具有写入权限的�
 
 要设置与 Adobe 一样大型的解决方案，文档工作始终任重而道远。如果发现错误，请将问题记录下来；如果想提供有关材料的建议，请告知我们。告诉我们您需要的信息。如果您无法找到所需内容，请告知我们；或者如果您在完成任务时遇到困难，请告诉我们可以如何帮助您了解我们的解决方案。
 
-在此，请接受“协作文档”团队及Experience League中所有作者和内容制作者的谢意。 我们感谢您的帮助。
+在此，请接受“协作文档”团队及Experience League中所有作者和内容制作者的谢意。 谢谢你的帮助。

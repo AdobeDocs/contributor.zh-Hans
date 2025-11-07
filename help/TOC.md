@@ -2,11 +2,13 @@
 git-repo: https://github.com/AdobeDocs/contributor.zh-Hans
 solution: Experience Cloud
 cloud: Experience Cloud
+user-guide-title: 投稿人指南
+user-guide-description: Adobe文档参与者说明
 index: true
-source-git-commit: d8a27428d0c264ae95740ad18231f96602a9136f
+source-git-commit: 38494017a88a638b8bf7b5033993c2647cfb09c6
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 100%
+source-wordcount: '74'
+ht-degree: 86%
 
 ---
 
@@ -27,6 +29,6 @@ ht-degree: 100%
 + 翻译反馈 {#localization}
    + [Adobe Experience Cloud 产品文档的语言支持](localization/machine-translation.md)
 + [Git 和 GitHub 学习资源](resources.md)
-+ 行为和投稿 {#conduct-contributions}
++ 行为和贡献 {#conduct-contributions}
    + [行为准则](conduct/code-of-conduct.md)
    + [参与概述](conduct/contributing.md)
