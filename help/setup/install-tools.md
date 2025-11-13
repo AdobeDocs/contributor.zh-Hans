@@ -2,9 +2,9 @@
 title: 安装创作工具
 description: 本文可帮助您下载和安装将用于 Git/GitHub 以及编辑 Markdown 文件所需的客户端工具。
 exl-id: 930185cf-fff5-485a-9824-70c32c55800d
-source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
+source-git-commit: 2ea5ddf33ae857dd9a5a764cac1fde8dcc4bc7d4
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '319'
 ht-degree: 100%
 
 ---
@@ -27,7 +27,6 @@ ht-degree: 100%
 
 可在以下位置获取 Git 学习资源：
 
-* [Git 基础知识](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
 * [学习 Git 和 GitHub](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
 * [Git 术语](https://help.github.com/articles/github-glossary)
 
