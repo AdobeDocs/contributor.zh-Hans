@@ -1,14 +1,14 @@
 ---
-git-repo: https://github.com/AdobeDocs/contributor.zh-Hans
+git-repo: https://github.com/AdobeDocs/contributor.en
 solution: Experience Cloud
 cloud: Experience Cloud
 user-guide-title: 投稿人指南
 user-guide-description: Adobe文档参与者说明
 index: true
-source-git-commit: f0552fbba1aac1b8ffd4116bd66f6c06afab0d39
+source-git-commit: 0d6cb6c676affb3aa7604b7cf6e983dd817df24e
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 77%
+source-wordcount: '101'
+ht-degree: 66%
 
 ---
 
@@ -33,5 +33,5 @@ ht-degree: 77%
    + [行为准则](conduct/code-of-conduct.md)
    + [参与概述](conduct/contributing.md)
 + 测试忽略 {#testing}
-   + [ID为的Analytics](https://experienceleague.adobe.com/zh-hans/docs/analytics/implementation/id/overview)
+   + [带有ID的Analytics](https://experienceleague.adobe.com/en/docs/analytics/implementation/id/overview)
    + [身份验证指南](https://experienceleague.adobe.com/en/docs/authoring-guide/using/release-notes)
