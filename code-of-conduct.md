@@ -3,8 +3,8 @@ title: Adobe 行为准则
 description: Adobe 行为准则
 source-git-commit: 883a314481675cbe8cea97782ccf39b738690bf9
 workflow-type: tm+mt
-source-wordcount: '439'
-ht-degree: 100%
+source-wordcount: '451'
+ht-degree: 87%
 
 ---
 
@@ -40,15 +40,16 @@ ht-degree: 100%
 
 ## 范围
 
-当一个人代表该项目或其社区时，本行为准则适用于其项目平台和公共平台。代表项目或社区的示例包括使用官方项目电子邮件地址、通过官方社交媒体帐户发布，或在线上或线下事件中担任指定代表。项目的呈现方式可由其项目维护者做出进一步的定义及解释。
+当一个人代表该项目或其社区时，本行为准则适用于其项目平台和公共平台。 表示项目或社区的示例包括使用官方项目电子邮件
+地址、通过官方社交媒体账户发帖，或在线上或线下活动中担任指定代表。 项目的呈现方式可由其项目维护者做出进一步的定义及解释。
 
 ## 强制执行
 
-如要举报辱骂、骚扰或其他不可接受的行为事件，请通过 Grp-opensourceoffice@adobe.com 联系项目团队。维护团队会对所有认为有必要且适合的投诉进行审查及调查，并做出相应的回应。项目团队有义务为事件举报者保密。具体执行政策的进一步细节可能会单独发布。
+通过与项目团队 (Grp-opensourceoffice@adobe.com) 联系，可报告虐待、骚扰或其他不可接受行为的情况。 项目团队会审核和调查所有投诉，并做出相应回应，
+被认为在该情况下是必要和适当的。 项目团队有义务为事件举报者保密。 具体执行政策的进一步细节可能会单独发布。
 
 对于没有切实地遵守或执行本行为准则的项目维护人员，其他项目领导人成员可以决定暂时或是永久地取消其参与资格。
 
 ## 归因
 
-本行为准则改编自[参与者公约](https://contributor-covenant.org)版本 1.4，
-此公约位于 [https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4/)
+本行为准则改编自[参与者公约](https://contributor-covenant.org)版本 1.4， 此公约位于 [https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4/)
