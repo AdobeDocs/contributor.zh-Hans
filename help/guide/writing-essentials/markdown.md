@@ -2,13 +2,11 @@
 title: 如何使用 Markdown 编写文档
 description: 了解有关 Markdown 创作的基础知识。 查找用于编写文章的 Markdown 语言的参考信息。
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: 6510db0d89ac9224df8a73ab50776e65068b7e08
+source-git-commit: 67075e2ca1ac4f63c0bdc30507dbb0444a922afd
 workflow-type: tm+mt
-source-wordcount: '1376'
+source-wordcount: '1309'
 ht-degree: 91%
-
 ---
-
 # 如何使用 Markdown 编写技术文档
 
 Adobe 技术文档文章以名为 [Markdown](https://daringfireball.net/projects/markdown/) 的轻量级标记语言编写，这种方式易于阅读且易于学习。
@@ -61,9 +59,9 @@ This is not \*italicized\* type.
 
 将显示为：
 
-1. This is step 1.
-1. This is the next step.
-1. This is yet another step, the third.
+1. 这是步骤 1。
+1. 这是下一步。
+1. 这是又一个步骤，也就是第三步。
 
 要创建项目符号列表，请在行首使用 \* 或者 - 或 +，但不要在同一列表中混合使用这几种格式。 （请勿在同一文档中混合使用项目符号格式，例如 \* 和 \+。）
 
@@ -75,7 +73,7 @@ This is not \*italicized\* type.
 
 将显示为：
 
-* First item in an unordered list.
+* 无序列表中的第一项。
 * Another item.
 * 让我们再来一次。
 
@@ -104,28 +102,28 @@ This is not \*italicized\* type.
 
 将显示为：
 
-1. Set up your table and code blocks.
-1. Perform this step.
+1. 设置表格和代码块。
+1. 执行此步骤。
 
    ![screen](assets/no-localize/adobe_standard_logo.png)
 
-1. Make sure that your table looks like this:
+1. 确保您的表格如下所示：
 
    | Hello | World |
    |---|---|
    | How | are you? |
 
-1. This is the fourth step.
+1. 这是第四步。
 
    >[!NOTE]
    >
-   >This is note text.
+   >这是注释文本。
 
-1. Do another step.
+1. 执行另一个步骤。
 
 ### 表格
 
-虽然表格不是核心 Markdown 规范的一部分，但 Adobe 仍在一定程度上支持它们。 Markdown 不支持在单元格中使用多个行列表。 最佳做法是避免在表格中使用多个行。 您可以通过使用管道 (|) 字符绘制列和行来创建表格。 连字符用于创建每个列的标题，而管道符用于分隔每个列。 在表格前面添加一个空白行，以便该表格可正确呈现。
+虽然表格不是核心 Markdown 规范的一部分，但 Adobe 仍在一定程度上支持它们。 Markdown 不支持在单元格中使用多行列表。 最佳做法是避免在表格中使用多行内容。 您可以通过使用管道 (|) 字符绘制列和行来创建表格。 连字符用于创建每个列的标题，而管道符用于分隔每个列。 在表格前面添加一个空白行，以便该表格可正确呈现。
 
 ```markdown
 | Header | Another header | Yet another header |
@@ -182,9 +180,11 @@ See [Overview example article](../../overview.md)
 
 ### 代码块
 
-Markdown 支持在句子中置入内联代码块，以及用于分隔句子的“受保护”块。 有关详细信息，请参阅[Markdown对代码块的本机支持](https://daringfireball.net/projects/markdown/syntax#precode)
+Markdown 支持将代码块以内联形式置于句子中，也支持将其作为独立的“围栏式”代码块置于句子之间。 有关详细信息，请参阅[Markdown对代码块的本机支持](https://daringfireball.net/projects/markdown/syntax#precode)
 
-使用反撇号 (`` ` ``) 在段落中创建内联代码样式。 要创建特定的多行代码块，请在代码块之前和之后添加三个反撇号 (` ` `` `)（在 Markdown 中称为“受防护的代码块”，在 AEM 中只是一个“代码块”组件）。 对于受保护的代码块，在第一组反撇号之后添加代码语言，以便 Markdown 正确地高亮显示代码语法。 示例：` `` `javascript`
+<!--
+Use back ticks (`` ` ``) to create inline code styles within a paragraph. To create a specific multi-line code block, add three back ticks (` ``` `) before and after the code block (called a "fenced code block" in Markdown and just a "code block" component in AEM). For fenced code blocks, add the code language after the first set of back ticks so that Markdown correctly highlights code syntax. Example: ` ```javascript`
+-->
 
 示例：
 
@@ -225,15 +225,15 @@ Adobe 文章对大多数文章格式使用标准 Markdown，例如段落、链�
 * `[!IMPORTANT]`
 * `[!CAUTION]`
 * `[!WARNING]`
-* `[ !ADMINISTRATION]`
+* `[!ADMINISTRATION]`
 * `[!AVAILABILITY]`
 * `[!PREREQUISITES]`
 * `[!ERROR]`
-* `[ !ADMINISTRATION]`
+* `[!ADMINISTRATION]`
 * `[!INFO]`
 * `[!SUCCESS]`
 
-通常，应谨慎使用备注块，因为它们可能具有破坏性。 尽管它们也支持代码块、图像、列表和链接，但请尽量保持备注块简单、直观。
+通常，应谨慎使用备注块，因为它们可能会造成干扰。 尽管它们也支持代码块、图像、列表和链接，但请尽量保持备注块简单、直观。
 
 
 ```markdown
@@ -260,7 +260,7 @@ Adobe 文章对大多数文章格式使用标准 Markdown，例如段落、链�
 
 ### 视频
 
-嵌入式视频不会呈现在 Markdown 本地，但您可以使用此 Markdown 扩展。
+嵌入式视频无法在 Markdown 中原生呈现，但您可以使用此 Markdown 扩展。
 
 ```markdown
 >[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
@@ -309,7 +309,7 @@ AEM 中的“更多与此类似的内容”组件显示在文章的末尾。 此
 >Of the two tagging options, this is the most crucial to deliver high quality and is mandatory.
 -->
 
-**``**
+**`[!DNL]`**
 
 通常，我们使用“不翻译”列表来告诉机器翻译引擎要保留哪些英文内容。 最常见的项目是像“Adobe Analytics”、“Adobe Campaign”和“Adobe Target”这样的长解决方案名称。 不过，在某些情况下，我们可能需要强制机器翻译引擎使用英语，因为相关术语可能会以特定或通用的方式使用。 最明显的例子是解决方案的简短名称，如“Analytics”、“Campaign”、“Target”等。机器很难理解这些是解决方案名称而不是通用术语。 标记也可用于始终保留为英文的第三方名称/功能，或者用于较短的文本部分，例如必须保留为英文的短语或句子。
 
@@ -336,7 +336,7 @@ AEM 中的“更多与此类似的内容”组件显示在文章的末尾。 此
 ![Settings_Step_2](/assets/settings_step_2.png)
 ```
 
-我们的最佳实践是在文件名中使用连字符 (-)，而不是下划线 (_)。
+我们的最佳做法是在文件名中使用连字符 (-)，而不是下划线 (_)。
 
 ```markdown
 ![Settings-Step-2](/assets/settings-step-2.png)
@@ -344,7 +344,7 @@ AEM 中的“更多与此类似的内容”组件显示在文章的末尾。 此
 
 ### 撇号和引号
 
-如果将文本复制到 Markdown 编辑器，则文本可能包含“智能”（弯）撇号或引号。 需要将这些符号编码或更改为基本撇号或单引号。 否则，在发布文件时，最终将会得到这样的奇怪字符：Itâ€™s
+如果将文本复制到 Markdown 编辑器，则文本可能包含“智能”（弯）撇号或引号。 需要将这些符号编码或更改为基本撇号或引号。 否则，在发布文件时，最终将会得到这样的奇怪字符：Itâ€™s
 
 以下是这些标点符号的“智能”版本的编码：
 
