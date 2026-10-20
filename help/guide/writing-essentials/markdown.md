@@ -153,7 +153,7 @@ Markdown 中可轻松处理简单的表格。 但是，如果表格单元格中�
 `[link text](file-name.md)`
 
 ```markdown
-[Adobe](https://www.adobe.com)
+[Adobe](https://www.adobe.com/cn)
 ```
 
 将显示为：
