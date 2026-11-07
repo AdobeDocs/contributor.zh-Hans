@@ -263,12 +263,12 @@ Adobe 文章对大多数文章格式使用标准 Markdown，例如段落、链�
 嵌入式视频无法在 Markdown 中原生呈现，但您可以使用此 Markdown 扩展。
 
 ```markdown
->[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3507561/?captions=chi_hans&quality=12)
 ```
 
 将显示为：
 
->[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3507561/?captions=chi_hans&quality=12)
 
 ### 更多与此类似的内容
 
